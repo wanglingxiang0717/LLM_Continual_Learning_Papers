@@ -17,6 +17,12 @@ Although continued pre-training and continued fine-tuning already have clear def
 
 **Thanks for all the great contributors!**
 
+*This work was carried out at the Advanced Innovation Center for Future Blockchain and Privacy Computing, School of Artificial Intelligence, Beihang University, during my time with the TapLLM research group.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-TAP--LLM-black?logo=github)](https://github.com/TAP-LLM)
+[![Xiaohongshu](https://img.shields.io/badge/小红书-北航TapLLM课题组-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5829358a3460941d0f10fda3)
+
+
 ## Contents
 
 - [LLM Continual Learning Papers](#LLM-Continual-Learning-Papers)

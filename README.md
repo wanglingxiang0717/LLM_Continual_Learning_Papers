@@ -298,6 +298,6 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Efficient Knowledge Editing via Minimal Precomputation**](https://aclanthology.org/2025.acl-short.65/) *Akshat Gupta, Maochuan Lu, Thomas Hartvigsen, Gopala Anumanchipalli.* ACL'25
 
 
-### *Contact me*
+## *Contact me*
 
 📧 [*wanglingxiang@buaa.edu.cn*](mailto:wanglingxiang@buaa.edu.cn)

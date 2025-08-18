@@ -300,4 +300,4 @@ Although continued pre-training and continued fine-tuning already have clear def
 
 ### *Contact me*
 
-*wanglingxiang@buaa.edu.cn*
+📧 [*wanglingxiang@buaa.edu.cn*](mailto:wanglingxiang@buaa.edu.cn)

@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![LICENSE](https://img.shields.io/github/license/wanglingxiang1298/LLM_Continual_Learning_Papers)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers/blob/main/LICENSE)
-[![commit](https://img.shields.io/github/last-commit/wanglingxiang1298/LLM_Continual_Learning_Papers?color=blue)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers/commits/main)
-[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers/pulls)
-[![GitHub Repo stars](https://img.shields.io/github/stars/wanglingxiang1298/LLM_Continual_Learning_Papers)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers)
+[![LICENSE](https://img.shields.io/github/license/wanglingxiang0717/LLM_Continual_Learning_Papers)](https://github.com/wanglingxiang0717/LLM_Continual_Learning_Papers/blob/main/LICENSE)
+[![commit](https://img.shields.io/github/last-commit/wanglingxiang0717/LLM_Continual_Learning_Papers?color=blue)](https://github.com/wanglingxiang0717/LLM_Continual_Learning_Papers/commits/main)
+[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/wanglingxiang0717/LLM_Continual_Learning_Papers/pulls)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wanglingxiang0717/LLM_Continual_Learning_Papers)](https://github.com/wanglingxiang0717/LLM_Continual_Learning_Papers)
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 
 </div>

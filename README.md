@@ -2,11 +2,10 @@
 
 <div align="center">
 
-[![LICENSE](https://img.shields.io/github/license/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation/blob/main/LICENSE)
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![commit](https://img.shields.io/github/last-commit/wasiahmad/Awesome-LLM-Synthetic-Data-Generation?color=blue)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation/commits/main)
-[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation/pulls)
-[![GitHub Repo stars](https://img.shields.io/github/stars/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)
+[![LICENSE](https://img.shields.io/github/license/wanglingxiang1298/LLM_Continual_Learning_Papers)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers/blob/main/LICENSE)
+[![commit](https://img.shields.io/github/last-commit/wanglingxiang1298/LLM_Continual_Learning_Papers?color=blue)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers/commits/main)
+[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers/pulls)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wanglingxiang1298/LLM_Continual_Learning_Papers)](https://github.com/wanglingxiang1298/LLM_Continual_Learning_Papers)
 <!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
 
 </div>

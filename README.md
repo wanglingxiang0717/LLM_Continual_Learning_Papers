@@ -30,18 +30,22 @@ Although continued pre-training and continued fine-tuning already have clear def
     - [ICLR](#ICLR)
     - [ICML](#ICML)
     - [ACL](#ACL)
+    - [CVPR](#CVPR)
   - [2. Continued Fine-tuning (CFT)](#2-Continued-Fine-tuning-(CFT))
     - [ICLR](#ICLR-1)
     - [ICML](#ICML-1)
     - [ACL](#ACL-1)
+    - [CVPR](#CVPR-1)
   - [3. Learning, Knowledge, and Memory (L,K,M)](#3-Learning-Knowledge-and-Memory-(L,K,M))
     - [ICLR](#ICLR-2)
     - [ICML](#ICML-2)
     - [ACL](#ACL-2)
+    - [CVPR](#CVPR-2)
   - [4. Knowledge Editing (KE)](#4-Knowledge-Editing-(KE))
     - [ICLR](#ICLR-3)
     - [ICML](#ICML-3)
     - [ACL](#ACL-3)
+    - [CVPR](#CVPR-3)
 
 ## 1. Continued Pre-training (CP)
 ### ICLR 
@@ -87,7 +91,15 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Structure-aware Domain Knowledge Injection for Large Language Models**](https://aclanthology.org/2025.acl-long.1425/) *Kai Liu, Ze Chen, Zhihang Fu, Wei Zhang, Rongxin Jiang, Fan Zhou, Yaowu Chen, Yue Wu, Jieping Ye.* ACL'25
   - [**Emergent Abilities of Large Language Models under Continued Pre-training for Language Adaptation**](https://aclanthology.org/2025.acl-long.1547/) *Ahmed Elhady, Eneko Agirre, Mikel Artetxe.* ACL'25
   - [**Just Go Parallel: Improving the Multilingual Capabilities of Large Language Models**](https://aclanthology.org/2025.acl-long.1602/) *Muhammad Reza Qorib, Junyi Li, Hwee Tou Ng.* ACL'25
-
+ 
+### CVPR
+- 2025
+  - [**Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging**](https://cvpr.thecvf.com/virtual/2025/poster/32665) *Xianrui Li, Yufei Cui, Jun Li, Antoni B. Chan.* CVPR'25
+  - **[Do Your Best and Get Enough Rest for Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/34881)** *Hankyul Kang, Gregor Seifer, Donghyun Lee, Jongbin Ryu.* CVPR'25
+  * **[Identifying and Mitigating Spurious Correlation in Multi-Task Learning](https://cvpr.thecvf.com/virtual/2025/poster/34342)** *Junyi Chai, Shenyu Lu, Xiaoqian Wang.* CVPR'25
+  * **[Instance-wise Supervision-level Optimization in Active Learning](https://cvpr.thecvf.com/virtual/2025/poster/33908)** *Shinnosuke Matsuo, Riku Togashi, Ryoma Bise, Seiichi Uchida, Masahiro Nomura.* CVPR'25
+  * **[Joint Out-of-Distribution Filtering and Data Discovery Active Learning](https://cvpr.thecvf.com/virtual/2025/poster/33684)** *Sebastian Schmidt, Leonard Schenk, Leo Schwinn, Stephan Günnemann.* CVPR'25
+  * **[Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/32576)** *Jiangmiao Wang, Feng Zheng, Baosheng Yu, Minghui Chen, Yan Huang, Ling Shao.* CVPR'25
 
 ## 2. Continued Fine-tuning (CFT)
 ### ICLR 
@@ -157,6 +169,42 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory**](https://aclanthology.org/2025.acl-long.1385/) *Guangyue Peng, Tao Ge, Wen Luo, Wei Li, Houfeng Wang.* ACL'25
   - [**Training-free LLM Merging for Multi-task Learning**](https://aclanthology.org/2025.acl-long.1588/) *Zichuan Fu, Xian Wu, Yejing Wang, Wanyu Wang, Shanshan Ye, Hongzhi Yin, Yi Chang, Yefeng Zheng, Xiangyu Zhao.* ACL'25
 
+### CVPR
+- 2025
+  * **[AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/35098)** *Guangyao Li, Wenxuan Hou, Di Hu.* CVPR'25
+  * **[Activating Sparse Part Concepts for 3D Class Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/32851)** *Yuyang Zhao, Jianan Li, Tingting Liang, Ge Li.* CVPR'25
+  * **[AdaDARE-gamma: Balancing Stability and Plasticity in Multi-modal LLMs through Efficient Adaptation](https://cvpr.thecvf.com/virtual/2025/poster/33585)** *Ting-Yi Chu, Chieh-Hsin Lai, Yu-Chiang Frank Wang.* CVPR'25
+  * **[Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/32443)** *Yibo Yang, Ruofei Han, Haizhou Wu, Kayeon Kim, Jure Leskovec.* CVPR'25
+  * **[CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](https://cvpr.thecvf.com/virtual/2025/poster/34268)** *Hao Zhou, Shuo Xu, Ming Yan, Ji Zhang, Fei Huang.* CVPR'25
+  * **[CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/34286)** *Hantian Zhang, Ziheng Qin, Jingyu Yang, Chenglong Li.* CVPR'25
+  * **[Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need](https://cvpr.thecvf.com/virtual/2025/poster/33144)** *Xueshuang Xiang, Yuanyuan Wu, Hanqiang Nie, Jun Wang.* CVPR'25
+  * **[Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/35177)** *Yuxuan Du, Zongyuan Ge, Fanman Meng, Qingbo Wu, Linfeng Xu, Hongliang Li.* CVPR'25
+  * **[BiLoRA: Almost-Orthogonal Parameter Spaces for Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/32506)** *Yujie Li, Xiheng Kong, Wen-Huang Cheng, Xiaoming Xi.* CVPR'25
+  * **[Decouple-Then-Merge: Finetune Diffusion Models as Multi-Task Learning](https://cvpr.thecvf.com/virtual/2025/poster/34782)** *Zeyu Wang, Wei Liu, Jialiang Wang, Yong Zhang.* CVPR'25
+  * **[Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/33334)** *Liyuan Wang, Yunhang Shen, Xing Sun, Ke Li.* CVPR'25
+  * **[Dynamic Integration of Task-Specific Adapters for Class Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/34532)** *Zhiyuan Wang, Liuyu Xiang, Yujie Zhong, Yansong Tang.* CVPR'25
+  * **[ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation](https://cvpr.thecvf.com/virtual/2025/poster/33715)** *Ying-Cong Chen, Haoyu Chen, Xiaojie Xu, Lei Zhu, Xinchao Wang.* CVPR'25
+  * **[Efficient Transfer Learning for Video-language Foundation Models](https://cvpr.thecvf.com/virtual/2025/poster/34228)** *Sijie Zhu, Tianlong Chen, Zhangyang Wang.* CVPR'25
+  * **[F-LMM: Grounding Frozen Large Multimodal Models](https://cvpr.thecvf.com/virtual/2025/poster/33673)** *Zhuofan Zong, Guanglu Song, Yanwei Li, Yu Liu, Hongsheng Li.* CVPR'25
+  * **[Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints](https://cvpr.thecvf.com/virtual/2025/poster/32744)** *Yongqiang Zhao, Ruoyi Du, Yu Wang, Jian Sun.* CVPR'25
+  * **[Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation](https://cvpr.thecvf.com/virtual/2025/poster/32591)** *Shaoan Xie, Dingning Liu, Hang Su, Jun Zhu.* CVPR'25
+  * **[Incremental Object Keypoint Learning](https://cvpr.thecvf.com/virtual/2025/poster/32955)** *Bohan Wu, Han-Kai Hsu, Jia-Bin Huang.* CVPR'25
+  * **[KAC: Kolmogorov-Arnold Classifier for Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/34404)** *Zhongli Zhang, Hongyi Wan, Haofei Wang, Jinjun Wang.* CVPR'25
+  * **[Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/33391)** *Jia-Wen Xiao, Liyuan Wang, Xing Sun, Ming-Ming Cheng.* CVPR'25
+  * **[Language Guided Concept Bottleneck Models for Interpretable Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/33298)** *Sheng-Xian Yang, Yi-Zhen Ji, Zhan-Zhan Cheng, Song-Hai Zhang.* CVPR'25
+  * **[Learning Conditional Space-Time Prompt Distributions for Video Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/35204)** *Ruoyu Chen, Yong Liu, Jinghua Fang, Yanpeng Sun.* CVPR'25
+  * **[LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/34314)** *Jun-Hyung Park, Hyuntae Jung, Dong-Wan Choi, Sang-Won Park.* CVPR'25
+  * **[Low-Rank Adaptation in Multilinear Operator Networks for Security-Preserving Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/33975)** *Guan-Xin Zeng, Qiang-Hua Huang, Wen-Ji Wang, Xin-Yu Zhang.* CVPR'25
+  * **[Online Task-Free Continual Learning via Dynamic Expansionable Memory Distribution](https://cvpr.thecvf.com/virtual/2025/poster/33725)** *Fei Ye, Adrian G. Bors.* CVPR'25
+  * **[Revisiting Generative Replay for Class Incremental Object Detection](https://cvpr.thecvf.com/virtual/2025/poster/34300)** *Runtian Wang, Longhui Wei, Shiyu Hu, Yunfeng Zhang, Qi Tian.* CVPR'25
+  * **[SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/32859)** *Zhenhua Chen, Ruixuan Yan, Jingyu Yang.* CVPR'25
+  * **[Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](https://cvpr.thecvf.com/virtual/2025/poster/32691)** *Minsu Kim, Seong-Hyeon Hwang, Steven Euijong Whang.* CVPR'25
+  * **[TADFormer: Task-Adaptive Dynamic TransFormer for Efficient Multi-Task Learning](https://cvpr.thecvf.com/virtual/2025/poster/34594)** *Han-Pang Hsieh, Chi-Hao Wu, Ming-Hsuan Yang.* CVPR'25
+  * **[Task-Agnostic Guided Feature Expansion for Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/34340)** *Xiao-Yu Zhang, Zhi-Hao Xu, Jia-Xing Zhong, Cheng-Lin Liu.* CVPR'25
+  * **[Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation](https://cvpr.thecvf.com/virtual/2025/poster/33193)** *Yao Mu, Ze-Rui Li, Sijia Chen, Ping-Luo Zhang.* CVPR'25
+  * **[Towards Consistent Multi-Task Learning: Unlocking the Potential of Task-Specific Parameters](https://cvpr.thecvf.com/virtual/2025/poster/34415)** *Yi-Fan Zhang, Fan-Xing Kong, Jin-Gang Wang, Ru-Ping Wang.* CVPR'25
+  * **[Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/34859)** *Jing-Hao Sun, Qi-Wei Wang, Yi-Zhen Ji, Song-Hai Zhang.* CVPR'25
+  * **[pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation](https://cvpr.thecvf.com/virtual/2025/poster/34489)** *Chen-Xuan Li, Ying-Hao Nan, Ming-Hui Zhang, Shao-Fan Jing.* CVPR'25
 
 ## 3. Learning, Knowledge, and Memory (L,K,M)
 ### ICLR 
@@ -262,7 +310,24 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Multi-Level Explanations for Generative Language Models**](https://aclanthology.org/2025.acl-long.1553/) *Lucas Monteiro Paes, Dennis Wei, Hyo Jin Do, Hendrik Strobelt, Ronny Luss, Amit Dhurandhar, Manish Nagireddy, Karthikeyan Natesan Ramamurthy, Prasanna Sattigeri, Werner Geyer, Soumya Ghosh.* ACL'25
   - [**Mapping 1,000+ Language Models via the Log-Likelihood Vector**](https://aclanthology.org/2025.acl-long.1584/) *Momose Oyama, Hiroaki Yamagiwa, Yusuke Takase, Hidetoshi Shimodaira.* ACL'25
 
-
+### CVPR
+- 2025
+  * **[A Theory of Learning Unified Model via Knowledge Integration from Label Space Varying Domains](https://cvpr.thecvf.com/virtual/2025/poster/32405)** *Yifan Zhang, Han-Jia Ye, De-Chuan Zhan.* CVPR'25
+  * **[AdaCM^2: On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction](https://cvpr.thecvf.com/virtual/2025/poster/33429)** *Yuan He, Zefan Zhou, Ruize Han, Di Hu.* CVPR'25
+  * **[Adaptive Unimodal Regulation for Balanced Multimodal Information Acquisition](https://cvpr.thecvf.com/virtual/2025/poster/34252)** *Zeyu Wang, Wei Liu, Jialiang Wang, Yong Zhang.* CVPR'25
+  * **[Assessing and Learning Alignment of Unimodal Vision and Language Models](https://cvpr.thecvf.com/virtual/2025/poster/33994)** *Deng Pan, Yongjie Fu, Heeyoung Yeom, Shahriar Nirjon.* CVPR'25
+  * **[Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization](https://cvpr.thecvf.com/virtual/2025/poster/32517)** *Hao-Zhe Liu, Wentian Zhang, Binghao Liu, Haoqian Wang, Nicu Sebe.* CVPR'25
+  * **[Beyond Sight: Towards Cognitive Alignment in LVLM via Enriched Visual Knowledge](https://cvpr.thecvf.com/virtual/2025/poster/34599)** *Yuzhang Shang, Chenran Men, Bin Duan, Yan Yan.* CVPR'25
+  * **[Classifier-Free Guidance Inside the Attraction Basin May Cause Memorization](https://cvpr.thecvf.com/virtual/2025/poster/32782)** *Junhao Cheng, Siyu Huang, Jia-Liang Lin, Xiandong Zhao, Kwang-Ting Cheng.* CVPR'25
+  * **[Coeff-Tuning: A Graph Filter Subspace View for Tuning Attention-Based Large Models](https://cvpr.thecvf.com/virtual/2025/poster/34230)** *Cheng-Bin Jin, Shinnosuke Matsuo, Seiichi Uchida.* CVPR'25
+  * **[Explaining Domain Shifts in Language: Concept Erasing for Interpretable Image Classification](https://cvpr.thecvf.com/virtual/2025/poster/34541)** *Waleed Arshad, Francesco Croce, Philip Torr.* CVPR'25
+  * **[FLAME: Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training](https://cvpr.thecvf.com/virtual/2025/poster/35218)** *Zeren Chen, Ziqin Wang, Sijian Zhao, Bo Zhang, Jifeng Dai.* CVPR'25
+  * **[LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty](https://cvpr.thecvf.com/virtual/2025/poster/33292)** *Shuo-Fei Wang, Liyuan Wang, Xing Sun, Ming-Ming Cheng.* CVPR'25
+  * **[Memories of Forgotten Concepts](https://cvpr.thecvf.com/virtual/2025/poster/34098)** *Luca De Luigi, Antonio Di Maio, Federico Tombari, Luigi Di Stefano.* CVPR'25
+  * **[Stochastic Human Motion Prediction with Memory of Action Transition and Action Characteristic](https://cvpr.thecvf.com/virtual/2025/poster/32852)** *Zewen Chen, Jinyuan Liu, Long Lan, Xin Liu, Zejian Yuan.* CVPR'25
+  * **[Targeted Forgetting of Image Subgroups in CLIP Models](https://cvpr.thecvf.com/virtual/2025/poster/34034)** *Vikram S. Chundawat, Ayush K. Tarun, Murari Mandal, Mohan Kankanhalli.* CVPR'25
+  * **[Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://cvpr.thecvf.com/virtual/2025/poster/34778)** *Zhengrong Xue, Ziyi Zhang, Jingwen Ye, Guangcheng Wang, Jilong Wang, Shuo Chen, Ji-Rong Wen.* CVPR'25
+  * **[Towards Source-Free Machine Unlearning](https://cvpr.thecvf.com/virtual/2025/poster/34266)** *Jun-Hyung Park, Hyuntae Jung, Dong-Wan Choi, Sang-Won Park.* CVPR'25
 
 ## 4. Knowledge Editing (KE)
 ### ICLR 
@@ -297,6 +362,11 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Serial Lifelong Editing via Mixture of Knowledge Experts**](https://aclanthology.org/2025.acl-long.1492/) *YuJu Cheng, Yu-Chu Yu, Kai-Po Chang, Yu-Chiang Frank Wang.* ACL'25
   - [**Efficient Knowledge Editing via Minimal Precomputation**](https://aclanthology.org/2025.acl-short.65/) *Akshat Gupta, Maochuan Lu, Thomas Hartvigsen, Gopala Anumanchipalli.* ACL'25
 
+### CVPR
+- 2025
+  * **[AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea](https://cvpr.thecvf.com/virtual/2025/poster/34767)** *Yuzhou Huang, Jialiang Wang, Shiyu Huang, Siyu Huang.* CVPR'25
+  * **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](https://cvpr.thecvf.com/virtual/2025/poster/32947)** *Yifan Song, Peilin Zhou, Sunan He, Han-Jia Ye, De-Chuan Zhan.* CVPR'25
+  * **[Rashomon Sets for Prototypical-Part Networks: Editing Interpretable Models in Real-Time](https://cvpr.thecvf.com/virtual/2025/poster/32669)** *Chun-Hao Huang, Thomas J.W. Wallis, Julian Lier, Matthias Bethge.* CVPR'25
 
 ## *Contact me*
 

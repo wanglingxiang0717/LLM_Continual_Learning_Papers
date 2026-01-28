@@ -518,5 +518,3 @@ Although continued pre-training and continued fine-tuning already have clear def
 ## *Contact me*
 
 📧 [*wanglingxiang@buaa.edu.cn*](mailto:wanglingxiang@buaa.edu.cn)
-
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zhihu.svg" width="20"/>](https://www.zhihu.com/people/ling-yun-14-34) [*https://www.zhihu.com/people/ling-yun-14-34*](https://www.zhihu.com/people/ling-yun-14-34)

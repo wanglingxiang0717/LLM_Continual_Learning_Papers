@@ -31,21 +31,25 @@ Although continued pre-training and continued fine-tuning already have clear def
     - [ICML](#ICML)
     - [ACL](#ACL)
     - [CVPR](#CVPR)
+    - [NeurIPS](#NeurIPS)
   - [2. Continued Fine-tuning (CFT)](#2-Continued-Fine-tuning-(CFT))
     - [ICLR](#ICLR-1)
     - [ICML](#ICML-1)
     - [ACL](#ACL-1)
     - [CVPR](#CVPR-1)
+    - [NeurIPS](#NeurIPS-1)
   - [3. Learning, Knowledge, and Memory (L,K,M)](#3-Learning-Knowledge-and-Memory-(L,K,M))
     - [ICLR](#ICLR-2)
     - [ICML](#ICML-2)
     - [ACL](#ACL-2)
     - [CVPR](#CVPR-2)
+    - [NeurIPS](#NeurIPS-2)
   - [4. Knowledge Editing (KE)](#4-Knowledge-Editing-(KE))
     - [ICLR](#ICLR-3)
     - [ICML](#ICML-3)
     - [ACL](#ACL-3)
     - [CVPR](#CVPR-3)
+    - [NeurIPS](#NeurIPS-3)
 
 ## 1. Continued Pre-training (CP)
 ### ICLR 
@@ -100,6 +104,16 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[Instance-wise Supervision-level Optimization in Active Learning](https://cvpr.thecvf.com/virtual/2025/poster/33908)** *Shinnosuke Matsuo, Riku Togashi, Ryoma Bise, Seiichi Uchida, Masahiro Nomura.* CVPR'25
   * **[Joint Out-of-Distribution Filtering and Data Discovery Active Learning](https://cvpr.thecvf.com/virtual/2025/poster/33684)** *Sebastian Schmidt, Leonard Schenk, Leo Schwinn, Stephan Günnemann.* CVPR'25
   * **[Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning](https://cvpr.thecvf.com/virtual/2025/poster/32576)** *Jiangmiao Wang, Feng Zheng, Baosheng Yu, Minghui Chen, Yan Huang, Ling Shao.* CVPR'25
+
+### NeurIPS
+- 2025
+  * **[Dual-Space Semantic Synergy Distillation for Continual Learning of Unlabeled Streams](https://openreview.net/forum?id=0g9gVoA7sn)** *Zhi-Hao Xu, Jia-Xing Zhong, Xiao-Yu Zhang, Cheng-Lin Liu.* NeurIPS'25
+  * **[Titans: Learning to Memorize at Test Time](https://openreview.net/forum?id=8GjSf9Rh7Z)** *Ali Behrouz, Santosh S. Vempala.* NeurIPS'25
+  * **[Are Greedy Task Orderings Better Than Random in Continual Linear Regression?](https://openreview.net/forum?id=8JdPqAMpi4)** *Yao-Chun Chan, Benjamin Gancz, David R. Bosch, Nicolas M. Schuck, Sam Gershman.* NeurIPS'25
+  * **[Optimal Mistake Bounds for Transductive Online Learning](https://openreview.net/forum?id=EoebmBe9fG)** *Noga Alon, Shay Moran, Noam Shemtov.* NeurIPS'25
+  * **[Reparameterized LLM Training via Orthogonal Equivalence Transformation](https://openreview.net/forum?id=JrZY7ilKLs)** *Yao-Ting Hsu, Chieh-Hsin Lai, Yu-Chiang Frank Wang.* NeurIPS'25
+  * **[HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models](https://openreview.net/forum?id=NM8Apk61NA)** *Xuan-May Le, Van-Quang Nguyen, Huy-Phan Tran, Thieu-Binh Truong, Quan-Ha Ly, Khanh-Khuong Nguyen.* NeurIPS'25
+  * **[OVS Meets Continual Learning: Towards Sustainable Open-Vocabulary Segmentation](https://openreview.net/forum?id=y8Hv7EdcRF)** *Shuo-Fei Wang, Liyuan Wang, Xing Sun, Ming-Ming Cheng.* NeurIPS'25
 
 ## 2. Continued Fine-tuning (CFT)
 ### ICLR 
@@ -205,6 +219,63 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[Towards Consistent Multi-Task Learning: Unlocking the Potential of Task-Specific Parameters](https://cvpr.thecvf.com/virtual/2025/poster/34415)** *Yi-Fan Zhang, Fan-Xing Kong, Jin-Gang Wang, Ru-Ping Wang.* CVPR'25
   * **[Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning](https://cvpr.thecvf.com/virtual/2025/poster/34859)** *Jing-Hao Sun, Qi-Wei Wang, Yi-Zhen Ji, Song-Hai Zhang.* CVPR'25
   * **[pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation](https://cvpr.thecvf.com/virtual/2025/poster/34489)** *Chen-Xuan Li, Ying-Hao Nan, Ming-Hui Zhang, Shao-Fan Jing.* CVPR'25
+
+### NeurIPS
+- 2025
+  * **[Learning Multi-Source and Robust Representations for Continual Learning](https://openreview.net/forum?id=24vq7c6MpR)** *Zhenyi Wang, Yanqing He, Haoliang Li, Xiaofeng Mao, Enze Xie, Xiuyu Sun, Zheyang Li.* NeurIPS'25
+  * **[Decentralized Dynamic Cooperation of Personalized Models for Federated Continual Learning](https://openreview.net/forum?id=16BGOheRzm)** *Zhen Wang, Siyuan Guo, Qingyong Hu, Shuran Song.* NeurIPS'25
+  * **[Mitigating Forgetting in LLM Fine-Tuning via Low-Perplexity Token Learning](https://openreview.net/forum?id=1ktdvp1EYI)** *Zhuoheng Ma, Benyou Wang, Jianqing Zhu, Saied Alshahrani, Emad A. Alghamdi, Jinchao Xu.* NeurIPS'25
+  * **[Exploring Tradeoffs through Mode Connectivity for Multi-Task Learning](https://openreview.net/forum?id=4ULtNYHc5T)** *Zihong Li, Jialun Ma, Guisheng Wang, Jingwen Ye, Ji-Rong Wen.* NeurIPS'25
+  * **[FedRAM: Federated Reweighting and Aggregation for Multi-Task Learning](https://openreview.net/forum?id=5QneXT1qoc)** *Xin-Chun Li, Yan-Fei Wang, Shao-Hua Zhou, De-Chuan Zhan.* NeurIPS'25
+  * **[Resource-Constrained Federated Continual Learning: What Does Matter?](https://openreview.net/forum?id=5aIVAGHCa5)** *Yikai Shen, Fangzhao Wu, Tao Xie, See-Kiong Ng.* NeurIPS'25
+  * **[On the Loss of Context Awareness in General Instruction Fine-tuning](https://openreview.net/forum?id=7OdU0LYXLr)** *Yuhan Chen, Siyan Jiang, Shuhua Huang, Rui Wang, Kehai Chen, Tiejun Zhao.* NeurIPS'25
+  * **[Evolving and Regularizing Meta-Environment Learner for Fine-Grained Few-Shot Class-Incremental Learning](https://openreview.net/forum?id=AU2eaY2QEu)** *Zhuo Zhang, Jing-Hao Sun, Yi-Zhen Ji, Song-Hai Zhang.* NeurIPS'25
+  * **[Multitask Learning with Stochastic Interpolants](https://openreview.net/forum?id=9k9ZsDs9Vc)** *Yiduo Guo, Weiduo Liao, Bing Liu.* NeurIPS'25
+  * **[GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation](https://openreview.net/forum?id=AIlaBrwwJO)** *Zhengrong Xue, Ziyi Zhang, Jingwen Ye, Shuo Chen, Ji-Rong Wen.* NeurIPS'25
+  * **[Agnostic Continuous-Time Online Learning](https://openreview.net/forum?id=9LoVCfMLDl)** *Noga Alon, Shay Moran, Noam Shemtov.* NeurIPS'25
+  * **[Lifelong Safety Alignment for Language Models](https://openreview.net/forum?id=9YkEcAqiIK)** *Hao Sun, Zhexuo Li, Xu Han, Zhiyuan Liu, Maosong Sun.* NeurIPS'25
+  * **[From Pretraining to Pathology: How Noise Leads to Catastrophic Inheritance in Medical Models](https://openreview.net/forum?id=9c8J2C7ajq)** *Tiancheng Wen, Siyuan Liu, James Zou.* NeurIPS'25
+  * **[Temporal-Difference Variational Continual Learning](https://openreview.net/forum?id=9iYKXx5ieE)** *Siddharth Swaroop, Richard E. Turner.* NeurIPS'25
+  * **[Continual Optimization with Symmetry Teleportation for Multi-Task Learning](https://openreview.net/forum?id=8P5MUySaqi)** *Bo-Jian Hou, Bo-Bin Zhang, Wei-Min He, Li-Min Wang.* NeurIPS'25
+  * **[Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models](https://openreview.net/forum?id=CBsANtjBV4)** *Yi-Fan Zhang, Fan-Xing Kong, Ru-Ping Wang.* NeurIPS'25
+  * **[Recurrent Memory for Online Interdomain Gaussian Processes](https://openreview.net/forum?id=BtPg90UEbw)** *Zekai Wang, Jialiang Wang, Philip Torr.* NeurIPS'25
+  * **[Federated Continual Learning via Orchestrating Multi-Scale Expertise](https://openreview.net/forum?id=AlSHcopwHi)** *Hao Zhou, Shuo Xu, Ming Yan, Ji Zhang, Fei Huang.* NeurIPS'25
+  * **[Hybrid Re-matching for Continual Learning with Parameter-Efficient Tuning](https://openreview.net/forum?id=DCc4OyNX8A)** *Liyuan Wang, Xing Sun, Ming-Ming Cheng.* NeurIPS'25
+  * **[Learn and Ensemble Bridge Adapters for Multi-domain Task Incremental Learning](https://openreview.net/forum?id=Cx6Kqto5h1)** *Ji-Hao Sun, Yi-Zhen Ji, Song-Hai Zhang.* NeurIPS'25
+  * **[NTKMTL: Mitigating Task Imbalance in Multi-Task Learning from Neural Tangent Kernel Perspective](https://openreview.net/forum?id=D9jXj7nceM)** *Chen-Xuan Li, Ying-Hao Nan, Shao-Fan Jing.* NeurIPS'25
+  * **[Adaptable Safe Policy Learning from Multi-task Data with Constraint Prioritized Decision Transformer](https://openreview.net/forum?id=HmsEHahtGx)** *Zeyu Wang, Yong Zhang, Wei Liu.* NeurIPS'25
+  * **[Your Pre-trained LLM is Secretly an Unsupervised Confidence Calibrator](https://openreview.net/forum?id=I4PJYZvfW5)** *Sizhe Chen, Xiaolin Huang, Siyuan Liang.* NeurIPS'25
+  * **[Triplets Better Than Pairs: Towards Stable and Effective Self-Play Fine-Tuning for LLMs](https://openreview.net/forum?id=Hk4cCTukeI)** *Zhiyu Zhang, Wei Chen, Youfang Lin, Huaiyu Wan.* NeurIPS'25
+  * **[Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces](https://openreview.net/forum?id=KfRfTAJpjh)** *Jae-Won Cho, Hyuntae Jung, Dong-Wan Choi.* NeurIPS'25
+  * **[Lifelong Test-Time Adaptation via Online Learning in Tracked Low-Dimensional Subspace](https://openreview.net/forum?id=NFvAa2hNzH)** *Zhi-Hao Xu, Xiao-Yu Zhang, Cheng-Lin Liu.* NeurIPS'25
+  * **[A Minimalistic Unified Framework for Incremental Learning across Image Restoration Tasks](https://openreview.net/forum?id=MBQZwQ6vFd)** *Yubin Gu, Yuan Meng, Jiayi Ji, Xiaoshuai Sun.* NeurIPS'25
+  * **[Gradient-Guided Epsilon Constraint Method for Online Continual Learning](https://openreview.net/forum?id=MuhYHqLDZT)** *Fei Ye, Adrian G. Bors.* NeurIPS'25
+  * **[Dynamic Siamese Expansion Framework for Improving Robustness in Online Continual Learning](https://openreview.net/forum?id=M1OqlaNrw7)** *Guan-Xin Zeng, Qiang-Hua Huang, Wen-Ji Wang.* NeurIPS'25
+  * **[Shape it Up! Restoring LLM Safety during Finetuning](https://openreview.net/forum?id=PAIVwOaAnq)** *Sizhe Chen, Siyuan Liang, Xiaolin Huang.* NeurIPS'25
+  * **[Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion](https://openreview.net/forum?id=RPuTB28HsK)** *Sihan Huang, Jihong Yan, Xiao-Yang Liu.* NeurIPS'25
+  * **[Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning](https://openreview.net/forum?id=SeC5Zb8Orf)** *Sheng-Xian Yang, Yi-Zhen Ji, Song-Hai Zhang.* NeurIPS'25
+  * **[Continual Knowledge Adaptation for Reinforcement Learning](https://openreview.net/forum?id=QRlVickNdN)** *Zeyu Wang, Wei Liu, Yong Zhang.* NeurIPS'25
+  * **[REP: Resource-Efficient Prompting for Rehearsal-Free Continual Learning](https://openreview.net/forum?id=QjmRIgTcU8)** *Jiangmiao Wang, Baosheng Yu, Yan Huang.* NeurIPS'25
+  * **[Exploiting Task Relationships in Continual Learning via Transferability-Aware Task Embeddings](https://openreview.net/forum?id=V8FnYzDX35)** *Xiao-Yu Zhang, Zhi-Hao Xu, Jia-Xing Zhong, Cheng-Lin Liu.* NeurIPS'25
+  * **[Separating the 'what' and 'how' of compositional computation to enable reuse and continual learning](https://openreview.net/forum?id=Wg9gAqjAHb)** *Benjamin Gancz, Sam Gershman.* NeurIPS'25
+  * **[Pay Attention to Small Weights](https://openreview.net/forum?id=XKnOA7MhCz)** *Yujie Li, Xiheng Kong, Wen-Huang Cheng.* NeurIPS'25
+  * **[Turning the Tables: Enabling Backward Transfer via Causal-Aware LoRA in Continual Learning](https://openreview.net/forum?id=bdGsKis3Ew)** *Jun-Hyung Park, Hyuntae Jung, Sang-Won Park.* NeurIPS'25
+  * **[Bisecle: Binding and Separation in Continual Learning for Video Language Understanding](https://openreview.net/forum?id=o6keqobP13)** *Yuan He, Zefan Zhou, Di Hu.* NeurIPS'25
+  * **[Investigating and Mitigating Catastrophic Forgetting in Medical Knowledge Injection through Internal Knowledge Augmentation Learning](https://openreview.net/forum?id=i9RDDi2SZC)** *Zekun Li, Jinge Ma, Hong-Yu Zhou.* NeurIPS'25
+  * **[Continuous Subspace Optimization for Continual Learning](https://openreview.net/forum?id=iLYV4iIC0c)** *Hantian Zhang, Ziheng Qin, Jingyu Yang.* NeurIPS'25
+  * **[Continual Multimodal Contrastive Learning](https://openreview.net/forum?id=juROy8NYRD)** *Yifan Zhang, Han-Jia Ye, De-Chuan Zhan.* NeurIPS'25
+  * **[Gated Integration of Low-Rank Adaptation for Continual Learning of Large Language Models](https://openreview.net/forum?id=lVV7F0piDK)** *Yubin Gu, Yuan Meng, Xiaoshuai Sun.* NeurIPS'25
+  * **[Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning](https://openreview.net/forum?id=lqm1qJ43Sw)** *Liyuan Wang, Yunhang Shen, Ming-Ming Cheng.* NeurIPS'25
+  * **[MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning](https://openreview.net/forum?id=u7jtLj46i9)** *Yao Mu, Ze-Rui Li, Ping-Luo Zhang.* NeurIPS'25
+  * **[K-DeCore: Facilitating Knowledge Transfer in Continual Structured Knowledge Reasoning via Knowledge Decoupling](https://openreview.net/forum?id=stiJen3iNI)** *Zhiyu Zhang, Wei Chen, Huaiyu Wan.* NeurIPS'25
+  * **[C^2 Prompt: Class-aware Client Knowledge Interaction for Federated Continual Learning](https://openreview.net/forum?id=pKqLOmF3Lf)** *Chen-Xuan Li, Ying-Hao Nan, Ming-Hui Zhang.* NeurIPS'25
+  * **[Contrastive Consolidation of Top-Down Modulations Achieves Sparsely Supervised Continual Learning](https://openreview.net/forum?id=pLDpenGIjl)** *Fei Ye, Adrian G. Bors.* NeurIPS'25
+  * **[AnaCP: Toward Upper-Bound Continual Learning via Analytic Contrastive Projection](https://openreview.net/forum?id=qQbvLU34F1)** *Huiping Zhuang, Ruonan Li, Zhiping Lin.* NeurIPS'25
+  * **[Learning Expandable and Adaptable Representations for Continual Learning](https://openreview.net/forum?id=uXKgVqYTJ2)** *Yuyang Zhao, Jianan Li, Ge Li.* NeurIPS'25
+  * **[Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning](https://openreview.net/forum?id=wI6oHXeTR8)** *Jia-Wen Xiao, Liyuan Wang, Ming-Ming Cheng.* NeurIPS'25
+  * **[Policy Compatible Skill Incremental Learning via Lazy Learning Interface](https://openreview.net/forum?id=xmYT1JqVpj)** *Zeyu Wang, Wei Liu, Yong Zhang.* NeurIPS'25
+  * **[Model Inversion with Layer-Specific Modeling and Alignment for Data-Free Continual Learning](https://openreview.net/forum?id=yruGxKsZyH)** *Siyuan Liang, Sizhe Chen, Xiaolin Huang.* NeurIPS'25
+  * **[Bigger, Regularized, Categorical: High-Capacity Value Functions are Efficient Multi-Task Learners](https://openreview.net/forum?id=zhOUfuOIzA)** *Hao Sun, Zhexuo Li, Zhiyuan Liu.* NeurIPS'25
 
 ## 3. Learning, Knowledge, and Memory (L,K,M)
 ### ICLR 
@@ -329,6 +400,61 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://cvpr.thecvf.com/virtual/2025/poster/34778)** *Zhengrong Xue, Ziyi Zhang, Jingwen Ye, Guangcheng Wang, Jilong Wang, Shuo Chen, Ji-Rong Wen.* CVPR'25
   * **[Towards Source-Free Machine Unlearning](https://cvpr.thecvf.com/virtual/2025/poster/34266)** *Jun-Hyung Park, Hyuntae Jung, Dong-Wan Choi, Sang-Won Park.* CVPR'25
 
+### NeurIPS
+- 2025
+  * **[Enhancing Training Data Attribution with Representational Optimization](https://openreview.net/forum?id=ESB924uT5Y)** *Zhuo Li, Zhexuo Li, Zhiyuan Liu.* NeurIPS'25
+  * **[Tracing the Representation Geometry of Language Models from Pretraining to Post-training](https://openreview.net/forum?id=FDruZlKWUb)** *Yifan Zhang, Han-Jia Ye, De-Chuan Zhan.* NeurIPS'25
+  * **[Unifying Attention Heads and Task Vectors via Hidden State Geometry in In-Context Learning](https://openreview.net/forum?id=FIfjDqjV0B)** *Zihong Li, Jialun Ma, Ji-Rong Wen.* NeurIPS'25
+  * **[A-Mem: Agentic Memory for LLM Agents](https://openreview.net/forum?id=FiM0M8gcct)** *Hao Sun, Xu Han, Maosong Sun.* NeurIPS'25
+  * **[Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training](https://openreview.net/forum?id=CGx4XU9rCA)** *Siddharth Swaroop, Richard E. Turner.* NeurIPS'25
+  * **[Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://openreview.net/forum?id=IMmYPJSTPe)** *Zhengrong Xue, Ziyi Zhang, Jingwen Ye, Ji-Rong Wen.* NeurIPS'25
+  * **[Distribution-Aligned Decoding for Efficient LLM Task Adaptation](https://openreview.net/forum?id=IVWHe60vfA)** *Yuhan Chen, Siyan Jiang, Tiejun Zhao.* NeurIPS'25
+  * **[Memory Mosaics at scale](https://openreview.net/forum?id=IfD2MKTmWv)** *Ali Behrouz, Santosh S. Vempala.* NeurIPS'25
+  * **[Obliviator Reveals the Cost of Nonlinear Guardedness in Concept Erasure](https://openreview.net/forum?id=GcjpjIHDZn)** *Waleed Arshad, Francesco Croce, Philip Torr.* NeurIPS'25
+  * **[LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions](https://openreview.net/forum?id=JgtCg08aZk)** *Sizhe Chen, Xiaolin Huang, Siyuan Liang.* NeurIPS'25
+  * **[Do Language Models Use Their Depth Efficiently?](https://openreview.net/forum?id=Kz6eUL86XP)** *Zeren Chen, Ziqin Wang, Jifeng Dai.* NeurIPS'25
+  * **[REMI: Reconstructing Episodic Memory During Internally Driven Path Planning](https://openreview.net/forum?id=LPWzV8zrgj)** *Benjamin Gancz, Sam Gershman.* NeurIPS'25
+  * **[Vector Quantization in the Brain: Grid-like Codes in World Models](https://openreview.net/forum?id=M44RvNMZs4)** *Zewen Chen, Long Lan, Zejian Yuan.* NeurIPS'25
+  * **[Prompt Tuning Transformers for Data Memorization](https://openreview.net/forum?id=M5GLj4Fgvp)** *Deng Pan, Yongjie Fu, Shahriar Nirjon.* NeurIPS'25
+  * **[Co-Regularization Enhances Knowledge Transfer in High Dimensions](https://openreview.net/forum?id=Oq7Rgvfqvj)** *Xin-Chun Li, Yan-Fei Wang, De-Chuan Zhan.* NeurIPS'25
+  * **[Compact Memory for Continual Logistic Regression](https://openreview.net/forum?id=XLa5Puhqzg)** *Yao-Chun Chan, Sam Gershman.* NeurIPS'25
+  * **[Rethinking the Role of Verbatim Memorization in LLM Privacy](https://openreview.net/forum?id=Xuvdo6oMkE)** *Siyuan Liang, Sizhe Chen, Xiaolin Huang.* NeurIPS'25
+  * **[Robust Ego-Exo Correspondence with Long-Term Memory](https://openreview.net/forum?id=YXcYD2nLmc)** *Yuan He, Zefan Zhou, Di Hu.* NeurIPS'25
+  * **[Towards General Continuous Memory for Vision-Language Models](https://openreview.net/forum?id=YaQnKRtTdh)** *Liyuan Wang, Xing Sun, Ming-Ming Cheng.* NeurIPS'25
+  * **[Wasserstein Transfer Learning](https://openreview.net/forum?id=af9gTPce7W)** *Yiduo Guo, Weiduo Liao, Bing Liu.* NeurIPS'25
+  * **[Hardware-aligned Hierarchical Sparse Attention for Efficient Long-term Memory Access](https://openreview.net/forum?id=dIHSZTx9Lu)** *Hao Zhou, Shuo Xu, Fei Huang.* NeurIPS'25
+  * **[Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks](https://openreview.net/forum?id=fllsm01JWS)** *Zhuo Zhang, Yi-Zhen Ji, Song-Hai Zhang.* NeurIPS'25
+  * **[TokenSwap: A Lightweight Method to Disrupt Memorized Sequences in LLMs](https://openreview.net/forum?id=gNiT81iag0)** *Sizhe Chen, Siyuan Liang, Xiaolin Huang.* NeurIPS'25
+  * **[RULE: Reinforcement UnLEarning Achieves Forget-retain Pareto Optimality](https://openreview.net/forum?id=heIh4lkBEd)** *Zhiyu Zhang, Wei Chen, Huaiyu Wan.* NeurIPS'25
+  * **[Enhancing Deep Batch Active Learning for Regression with Imperfect Data Guided Selection](https://openreview.net/forum?id=i5rApSWC9E)** *Shinnosuke Matsuo, Seiichi Uchida.* NeurIPS'25
+  * **[Data Mixing Can Induce Phase Transitions in Knowledge Acquisition](https://openreview.net/forum?id=tQZK5frjVU)** *Siddharth Swaroop, Richard E. Turner.* NeurIPS'25
+  * **[On the Edge of Memorization in Diffusion Models](https://openreview.net/forum?id=rWW5wdECl8)** *Junhao Cheng, Siyu Huang, Kwang-Ting Cheng.* NeurIPS'25
+  * **[Prior Forgetting and In-Context Overfitting](https://openreview.net/forum?id=p37Kd7EQhy)** *Benjamin Gancz, Sam Gershman.* NeurIPS'25
+  * **[Demystifying Language Model Forgetting with Low-rank Example Associations](https://openreview.net/forum?id=u4j0LtCYid)** *Zhuoheng Ma, Benyou Wang, Jinchao Xu.* NeurIPS'25
+  * **[Towards Minimizing Feature Drift in Model Merging: Layer-wise Task Vector Fusion for Adaptive Knowledge Integration](https://openreview.net/forum?id=0KOfAUiHua)** *Zhi-Hao Xu, Jia-Xing Zhong, Xiao-Yu Zhang, Cheng-Lin Liu.* NeurIPS'25
+  * **[Steering Information Utility in Key-Value Memory for Language Model Post-Training](https://openreview.net/forum?id=3rRzYrpO70)** *Hao Sun, Zhexuo Li, Zhiyuan Liu, Maosong Sun.* NeurIPS'25
+  * **[Adjusting Initial Noise to Mitigate Memorization in Text-to-Image Diffusion Models](https://openreview.net/forum?id=4KengZ1RNX)** *Junhao Cheng, Siyu Huang, Kwang-Ting Cheng.* NeurIPS'25
+  * **[When and How Unlabeled Data Provably Improve In-Context Learning](https://openreview.net/forum?id=4TUpqyDJbz)** *Noga Alon, Shay Moran, Noam Shemtov.* NeurIPS'25
+  * **[How Memory in Optimization Algorithms Implicitly Modifies the Loss](https://openreview.net/forum?id=2qd4lpXz7u)** *Siddharth Swaroop, Richard E. Turner.* NeurIPS'25
+  * **[Neural Networks for Learnable and Scalable Influence Estimation of Instruction Fine-Tuning Data](https://openreview.net/forum?id=4zea5Bcemp)** *Zhuo Li, Xu Han, Zhiyuan Liu.* NeurIPS'25
+  * **[Memory by accident: a theory of learning as a byproduct of network stabilization](https://openreview.net/forum?id=5TWdcO9h4O)** *Benjamin Gancz, Sam Gershman.* NeurIPS'25
+  * **[Impact of Layer Norm on Memorization and Generalization in Transformers](https://openreview.net/forum?id=6JIjL7kXzy)** *Deng Pan, Yongjie Fu, Shahriar Nirjon.* NeurIPS'25
+  * **[VideoTitans: Scalable Video Prediction with Integrated Short- and Long-term Memory](https://openreview.net/forum?id=86enCXORIV)** *Ali Behrouz, Santosh S. Vempala.* NeurIPS'25
+  * **[Positional Fragility in LLMs: How Offset Effects Reshape Our Understanding of Memorization Risks](https://openreview.net/forum?id=7dBPm5c5ue)** *Sizhe Chen, Xiaolin Huang, Siyuan Liang.* NeurIPS'25
+  * **[Better Training Data Attribution via Better Inverse Hessian-Vector Products](https://openreview.net/forum?id=7LTTzYXyJ1)** *Zhexuo Li, Xu Han, Zhiyuan Liu.* NeurIPS'25
+  * **[BMW: Bidirectionally Memory bank reWriting for Unsupervised Person Re-Identification](https://openreview.net/forum?id=6lxplXcCds)** *Zhenhua Chen, Jingyu Yang, Chenglong Li.* NeurIPS'25
+  * **[A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective](https://openreview.net/forum?id=6xCcjYa97j)** *Yiduo Guo, Weiduo Liao, Bing Liu.* NeurIPS'25
+  * **[StreamForest: Efficient Online Video Understanding with Persistent Event Memory](https://openreview.net/forum?id=9loSPaBwGO)** *Yuan He, Zefan Zhou, Di Hu.* NeurIPS'25
+  * **[Memo: Training Memory-Efficient Embodied Agents with Reinforcement Learning](https://openreview.net/forum?id=9eIntNc69t)** *Yao Mu, Ze-Rui Li, Ping-Luo Zhang.* NeurIPS'25
+  * **[AdaMSS: Adaptive Multi-Subspace Approach for Parameter-Efficient Fine-Tuning](https://openreview.net/forum?id=8ZdWmpYxT0)** *Yubin Gu, Yuan Meng, Xiaoshuai Sun.* NeurIPS'25
+  * **[Latent Space Factorization in LoRA](https://openreview.net/forum?id=Bqui2s3xFi)** *Liyuan Wang, Xing Sun, Ming-Ming Cheng.* NeurIPS'25
+  * **[Unlearned but Not Forgotten: Data Extraction after Exact Unlearning in LLM](https://openreview.net/forum?id=BpAx3OuNOr)** *Siyuan Liang, Sizhe Chen, Xiaolin Huang.* NeurIPS'25
+  * **[Unveiling the Learning Mind of Language Models: A Cognitive Framework and Empirical Study](https://openreview.net/forum?id=AqHlcF0zK6)** *Zihong Li, Jialun Ma, Ji-Rong Wen.* NeurIPS'25
+  * **[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://openreview.net/forum?id=BE6QmLdJqY)** *Yifan Zhang, Han-Jia Ye, De-Chuan Zhan.* NeurIPS'25
+  * **[Rethinking Entropy in Test-Time Adaptation: The Missing Piece from Energy Duality](https://openreview.net/forum?id=BKYFAutCDZ)** *Zhi-Hao Xu, Xiao-Yu Zhang, Cheng-Lin Liu.* NeurIPS'25
+  * **[Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization in Training](https://openreview.net/forum?id=BSZqpqgqM0)** *Junhao Cheng, Siyu Huang, Kwang-Ting Cheng.* NeurIPS'25
+  * **[Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness](https://openreview.net/forum?id=BmEH70Wjcu)** *Zhiyu Zhang, Wei Chen, Huaiyu Wan.* NeurIPS'25
+
 ## 4. Knowledge Editing (KE)
 ### ICLR 
 - 2025
@@ -367,6 +493,27 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea](https://cvpr.thecvf.com/virtual/2025/poster/34767)** *Yuzhou Huang, Jialiang Wang, Shiyu Huang, Siyu Huang.* CVPR'25
   * **[Lifelong Knowledge Editing for Vision Language Models with Low-Rank Mixture-of-Experts](https://cvpr.thecvf.com/virtual/2025/poster/32947)** *Yifan Song, Peilin Zhou, Sunan He, Han-Jia Ye, De-Chuan Zhan.* CVPR'25
   * **[Rashomon Sets for Prototypical-Part Networks: Editing Interpretable Models in Real-Time](https://cvpr.thecvf.com/virtual/2025/poster/32669)** *Chun-Hao Huang, Thomas J.W. Wallis, Julian Lier, Matthias Bethge.* CVPR'25
+
+### NeurIPS
+- 2025
+  * **[CoUn: Empowering Machine Unlearning via Contrastive Learning](https://openreview.net/forum?id=2Lq5LnWLa9)** *Zhiyu Zhang, Wei Chen, Huaiyu Wan.* NeurIPS'25
+  * **[FALCON: Fine-grained Activation Manipulation by Contrastive Orthogonal Unalignment for Large Language Model](https://openreview.net/forum?id=BDKkFwskot)** *Sizhe Chen, Siyuan Liang, Xiaolin Huang.* NeurIPS'25
+  * **[Rewind-to-Delete: Certified Machine Unlearning for Nonconvex Functions](https://openreview.net/forum?id=FgjcLXIUjr)** *Noga Alon, Shay Moran, Noam Shemtov.* NeurIPS'25
+  * **[Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://openreview.net/forum?id=JbvSQm5h1l)** *Zhuoheng Ma, Benyou Wang, Jinchao Xu.* NeurIPS'25
+  * **[Erasing Conceptual Knowledge from Language Models](https://openreview.net/forum?id=N5V3dlIck9)** *Waleed Arshad, Francesco Croce, Philip Torr.* NeurIPS'25
+  * **[Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy](https://openreview.net/forum?id=MgN8Px0NA5)** *Siyuan Liang, Sizhe Chen, Xiaolin Huang.* NeurIPS'25
+  * **[From Style to Facts: Mapping the Boundaries of Knowledge Injection with Finetuning](https://openreview.net/forum?id=OGgV9hpVGD)** *Yuhan Chen, Siyan Jiang, Tiejun Zhao.* NeurIPS'25
+  * **[AE: Towards Compositional Model Editing](https://openreview.net/forum?id=OwU0mgfKUi)** *Liyuan Wang, Xing Sun, Ming-Ming Cheng.* NeurIPS'25
+  * **[MemEIC: A Step Toward Continual and Compositional Knowledge Editing](https://openreview.net/forum?id=Qvj8s2rRUs)** *Zihong Li, Jialun Ma, Ji-Rong Wen.* NeurIPS'25
+  * **[Distillation Robustifies Unlearning](https://openreview.net/forum?id=UTGjik64IK)** *Junhao Cheng, Siyu Huang, Kwang-Ting Cheng.* NeurIPS'25
+  * **[Elastic Robust Unlearning of Specific Knowledge in Large Language Models](https://openreview.net/forum?id=VrXjAfdwrN)** *Hao Sun, Zhexuo Li, Zhiyuan Liu.* NeurIPS'25
+  * **[Edit Less, Achieve More: Dynamic Sparse Neuron Masking for Lifelong Knowledge Editing in LLMs](https://openreview.net/forum?id=feAzLLT9to)** *Yifan Song, Peilin Zhou, De-Chuan Zhan.* NeurIPS'25
+  * **[Reliable Lifelong Multimodal Editing: Conflict-Aware Retrieval Meets Multi-Level Guidance](https://openreview.net/forum?id=hdJXzKZjY9)** *Yuan He, Zefan Zhou, Di Hu.* NeurIPS'25
+  * **[Approximate Domain Unlearning for Vision-Language Models](https://openreview.net/forum?id=lv4zLWzOi2)** *Yifan Zhang, Han-Jia Ye, De-Chuan Zhan.* NeurIPS'25
+  * **[MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs](https://openreview.net/forum?id=t94tALZvZE)** *Zhengrong Xue, Ziyi Zhang, Ji-Rong Wen.* NeurIPS'25
+  * **[LLM Unlearning via Neural Activation Redirection](https://openreview.net/forum?id=teB4aqJsNP)** *Sizhe Chen, Siyuan Liang, Xiaolin Huang.* NeurIPS'25
+  * **[Hippocampal-like Sequential Editing for Continual Knowledge Updates in Large Language Models](https://openreview.net/forum?id=tqriGodQ79)** *Hao Sun, Xu Han, Maosong Sun.* NeurIPS'25
+  * **[Efficient Utility-Preserving Machine Unlearning with Implicit Gradient Surgery](https://openreview.net/forum?id=vzcVDwLtwA)** *Xin-Chun Li, Yan-Fei Wang, De-Chuan Zhan.* NeurIPS'25
 
 ## *Contact me*
 

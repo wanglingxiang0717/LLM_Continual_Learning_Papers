@@ -72,6 +72,18 @@ Although continued pre-training and continued fine-tuning already have clear def
 
 
 ### ICML
+- 2026
+  * **[Advancing Analytic Class-Incremental Learning through Vision-Language Calibration](https://openreview.net/forum?id=1sH1AEeylU)** *Binyu Zhao, Wei ZHANG, Xingrui Yu, Zhaonian Zou, Ivor Tsang.* ICML'26
+  * **[Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](https://openreview.net/forum?id=CHvRfubYke)** *Ishaan Watts, Catherine Li, Sachin Goyal, Jacob Mitchell Springer, Aditi Raghunathan.* ICML'26
+  * **[Continual Learning of Domain-Invariant Representations](https://openreview.net/forum?id=EH77N5YGwV)** *Pascal Janetzky, Tobias Schlagenhauf, Stefan Feuerriegel.* ICML'26
+  * **[MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning](https://openreview.net/forum?id=LXZcSgqldO)** *Guanglong Sun, Hongwei Yan, Liyuan Wang, Zhiqi KANG, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong* ICML'26
+  * **[SABER: Continual Learning with Representation Conflict Management](https://openreview.net/forum?id=N0qnrJEIoy)** *Xuandi Luo, Huaidong Zhang, Yi Xie, Shengfeng He.* ICML'26
+  * **[Updating Parametric Knowledge with Context Distillation Retains Post-Training Capabilities](https://openreview.net/forum?id=OJsGhlTayF)** *Shankar Padmanabhan, Mustafa Omer Gul, Tanya Goyal* ICML'26
+  * **[Don't Forget Why You Started: Tackling Dual Forgetting in Vision-Language Continual Learning](https://openreview.net/forum?id=OtuuZ68quP)** *Borui Kang, Jinrui Gu, Tao Feng, Qi Fan, Yinghuan Shi, Lei Wang, Wenbin Li, Yang Gao.* ICML'26
+  * **[Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning](https://openreview.net/forum?id=VzdSHEab4G)** *Huihan Liu, Changyeon Kim, Bo Liu, Minghuan Liu, Yuke Zhu.* ICML'26
+  * **[TRACER: Persistent Regularization for Robust Multimodal Finetuning](https://openreview.net/forum?id=XOYXLQRlj8)** *Hesam Asadollahzadeh, Feng Liu, Christopher Leckie, Sarah Monazam Erfani* ICML'26
+  * **[Hyperbolic Multimodal Continual Learning](https://openreview.net/forum?id=e4tSzgWjXU)** *Jiahong Liu, Ming Shen, Xiaohao Liu, Rex Ying, Menglin Yang, Tat-Seng Chua, Irwin King.* ICML'26
+
 - 2025
   - [**Optimal Task Order for Continual Learning of Multiple Tasks**](https://icml.cc/virtual/2025/poster/46654) *Ziyan Li, Naoki Hiratani.* ICML'25
   - [**Learning without Isolation: Pathway Protection for Continual Learning**](https://icml.cc/virtual/2025/poster/46536) *Zhikang Chen, Abudukelimu Wuerkaixi, Sen Cui, Haoxuan Li, Ding Li, Jingfeng Zhang, Bo Han, Gang Niu, Houfang Liu, Yi Yang, Sifan YANG, Changshui Zhang, Tianling Ren.* ICML'25
@@ -208,6 +220,52 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Active Learning for Continual Learning: Keeping the Past Alive in the Present**](https://iclr.cc/virtual/2025/poster/28450) *Jaehyun Park, Dongmin Park, Jae-Gil Lee.* ICLR'25
 
 ### ICML
+- 2026
+  - [**Cross-View Lewis Weight Fusion Empowering Exemplar Replay for Federated Class-Incremental Learning**](https://openreview.net/forum?id=0XQ2kvDaVE) *Zhuang Qi, Ying-Peng Tang, Lei Meng, Xiaoxiao Li, Han Yu, Xiangxu Meng.* ICML'26
+  - [**ACO-MoE-LoRA: Evolving-while-Training for Adapting Segment Anything Model 2 to Specialized Domains**](https://openreview.net/forum?id=0YKTO2A04S) *Kaiyi Luo, Bangjun Wang, Li Zhang, Fanzhang Li, Fei Zhu, Jiaqing Fan.* ICML'26
+  - [**Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation**](https://openreview.net/forum?id=0wxnefBSTB) *Xingyue Zhao, Wenke Huang, Linghao Zhuang, Haoran Wu, Anwen Jiang, Zhifeng Wang, Wenwen He, Ming Feng, Mang Ye, Bo Xu.* ICML'26
+  - [**Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models**](https://openreview.net/forum?id=20nWnRkLP4) *Hyeontaek Hwang, Nguyen Dinh Son, Daeyoung Kim.* ICML'26
+  - [**MoCL: Metabolic Optimization for Curvature-Aware Continual Learning**](https://openreview.net/forum?id=22movV4FJD) *Jiajun Lai, Qi Liu, Shijie Li, Huaiguang Jiang.* ICML'26
+  - [**BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning**](https://openreview.net/forum?id=2HlW5mj6Ch) *Zheng Zhang, Jiaye Yang, Qingjie Guo, Jiangrong Shen, Long Chen, Qi Xu.* ICML'26
+  - [**Less Is More in Federated Continual Learning: RieSelect for Conflict-Aware Layer Selection in LLMs**](https://openreview.net/forum?id=1Je3o7cf1N) *Wenqi Qiu, Yipeng Zhou, Lin Zhu, Laizhong Cui.* ICML'26
+  - [**Learning to Memorize with Attributive and Associative Memory for Online Test-Time Adaptation of Vision-Language Models**](https://openreview.net/forum?id=37Csgeb5CF) *Yuchao Zhang, Hao Wang, Fan Zhang, Qirui Mi, Mengyue Yang, Yisen Wang, Jun Wang, Haoxuan Li, Zhouchen Lin.* ICML'26
+  - [**Adversarial Latent Embedding Repair for LLM Continual Learning**](https://openreview.net/forum?id=3CLOFiyWLU) *Xilin Xia, Xialiang Tong, Jie Wang, Chi Ma, Shengxue Li, Yinqi Bai, Yuhang Jiang, Xing Li, Jianye Hao, Mingxuan Yuan, Feng Wu.* ICML'26
+  - [**Energy-Structured Low-Rank Adaptation for Continual Learning**](https://openreview.net/forum?id=4OP391X7Qm) *Longhua Li, Lei Qi, Qi Tian, Xin Geng.* ICML'26
+  - [**Skill Neologisms: Towards Skill-based Continual Learning**](https://openreview.net/forum?id=5VgZUEpK6W) *Antonin Berthon, Nicolas Astorga, Mihaela van der Schaar.* ICML'26
+  - [**AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning**](https://openreview.net/forum?id=5th8Uu1HjJ) *Zhen-Hao Xie, Yu-Cheng Shi, Da-Wei Zhou.* ICML'26
+  - [**TiME: Test-Time Mixture-of-Experts Routing via Asymmetric CO-Optimal Transport for Continual Test-Time Adaptation**](https://openreview.net/forum?id=8CIgRukXql) *Tianlun Liu, Zhiliang Tian, Zhen Huang, Tianle Liu, Xingzhi Zhou, Feng Liu, Dongsheng Li.* ICML'26
+  - [**XSkill: Continual Learning from Experience and Skills in Multimodal Agents**](https://openreview.net/forum?id=AjP1yvCyoG) *Guanyu Jiang, Zhaochen Su, Xiaoye Qu, Yi R. Fung.* ICML'26
+  - [**Private and Stable Test-time Adaptation with Differential Privacy**](https://openreview.net/forum?id=Ct0HIcLIMX) *Zefeng Li, Qiaoyue Tang, Mathias Lécuyer, Evan Shelhamer.* ICML'26
+  - [**The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order**](https://openreview.net/forum?id=KL0eu92H3K) *John Sweeney.* ICML'26
+  - [**HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning**](https://openreview.net/forum?id=LzWyl85Lkc) *Yu Feng, Zhen Tian, Haoran Luo, Xie Yu, Diancheng Cheng, Haoyue Zheng, Shuai Lyu, Ping Zong, Lianyuan Li, Xin Ge, Yifan Zhu.* ICML'26
+  - [**RC-FCL: Combating Asynchronous Concept Drift in Federated Continual Learning via Retrospective Calibration**](https://openreview.net/forum?id=M4qqzXECcp) *Hang Su, Yijun Mo, Zhiyu Zhang, Yankai Jiang, Bo Liu, Yichen Li, Imran Razzak.* ICML'26
+  - [**GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning**](https://openreview.net/forum?id=MhMoUuoA1g) *Yipeng Lin, Fengqiang Wan, Yang Yang.* ICML'26
+  - [**MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning**](https://openreview.net/forum?id=Mxg6mo1Xzj) *Tristan Tomilin, Luka van den Boogaard, Samuel Garcin, Constantin Ruhdorfer, Bram Grooten, Fabrice Kusters, Yali Du, Andreas Bulling, Mykola Pechenizkiy, Meng Fang.* ICML'26
+  - [**Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts**](https://openreview.net/forum?id=P247k4ELcn) *Haodong Lu, Chongyang Zhao, Jason Xue, Lina Yao, Kristen Moore, Dong Gong.* ICML'26
+  - [**Subspace-Aware Feature Reshaping for Open-Set Graph Class-Incremental Learning**](https://openreview.net/forum?id=QKo90eNH3l) *Weichao Zhang, Shuai Zheng, Yeyu Yan, Zhizhe Liu, Zhenfeng Zhu, Yao Zhao.* ICML'26
+  - [**SaTeen: Learning Structural Alignment for Continual Test-Time Adaptation**](https://openreview.net/forum?id=QYPKLGyz7K) *Chang Liu, Ruotong Zhao, Li Gao, Yupei Zhang.* ICML'26
+  - [**How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off**](https://openreview.net/forum?id=QiTBmWiH8G) *Waïss Azizian, Ali Hasan.* ICML'26
+  - [**A Decision-Theoretic View of Test-Time Training: When, How Far, and Which Directions to Adapt**](https://openreview.net/forum?id=RZ7UHTHmfn) *Tomoya Wakayama.* ICML'26
+  - [**Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts**](https://openreview.net/forum?id=Tvcii7gyRX) *Meng Lou, Yunxiang Fu, Yizhou Yu.* ICML'26
+  - [**AdaMEM: Test-Time Adaptive Memory for Language Agents**](https://openreview.net/forum?id=RzlmkviaNy) *Yunxiang Zhang, Yiheng Li, Ali Payani, Lu Wang.* ICML'26
+  - [**JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning**](https://openreview.net/forum?id=XJ5r19iN9G) *Cheng Chen, Pengpeng Zeng, Yuyu Guo, Lianli Gao, Hengtao Shen, Jingkuan Song.* ICML'26
+  - [**Online Continual Learning with Dynamic Label Hierarchies**](https://openreview.net/forum?id=YyesH7V9c2) *Xinrui Wang, Shao-Yuan Li, Bartłomiej Twardowski, Alexandra Gomez-Villa, Songcan Chen.* ICML'26
+  - [**Breaking the Synthetic-Real Domain Shortcut for Training-Free Generative Replay-based Class Incremental Learning**](https://openreview.net/forum?id=Z1HeVZNdMn) *Tao Zhang, Qixuan Fan, Yiyuan Liang, Yanjie Wang, Song Yan, Tian Tian, Jiahuan Zhou, Luxin Yan, Sheng Zhong, Xu Zou.* ICML'26
+  - [**On the Power of Statistics in Class-Incremental Learning with Pretrained Models**](https://openreview.net/forum?id=aFV5K8vPAI) *Zhiwen Cao, Yanfeng Li, Shu-Dong Huang, Yalan Ye, Shuyin Xia, Yi Wang, Jiancheng Lv.* ICML'26
+  - [**Cross-task Calibration for Asynchronous Federated Continual Learning**](https://openreview.net/forum?id=blan7cedXX) *Yichen Li, Haozhao Wang, Hang Su, Yulong Li, Xiaoquan Yi, Yankai Jiang, Chuang Zhao, Imran Razzak, Ruixuan Li.* ICML'26
+  - [**Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning**](https://openreview.net/forum?id=cbicSAXMWQ) *Zhenyi Wang, Yixuan Sun, Yue Wang, Zhong Chen, Heng Huang.* ICML'26
+  - [**PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning**](https://openreview.net/forum?id=d4VzITcGKj) *Romain Cosentino.* ICML'26
+  - [**Mixing Expertise with Confidence: A Mixture of Experts Framework for Robust Multi-Modal Continual Learning**](https://openreview.net/forum?id=ZPJbTXMYft) *Md Abdullah Al Forhad, Y. Zhu, A. Acharya, X. Liu, Q. Yu, W. Shi.* ICML'26
+  - [**GFedCL: Graph-Based Federated Continual Learning with Spatial and Temporal Awareness**](https://openreview.net/forum?id=eYgiPtpWOh) *Qingyang Yu, Yang Hua, Qizhen Zhang, Hao Wang.* ICML'26
+  - [**Capacity-Agnostic Parameter Isolation for Continual Graph Learning**](https://openreview.net/forum?id=hkcF6wKqoq) *Ye Xiao, Ruikun Li, Zhenyu Yang, Andrey Vasnev, Junbin Gao.* ICML'26
+  - [**From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory**](https://openreview.net/forum?id=gNWNtstp3r) *Yishuo Cai, Xingyu Guo, Xuancheng Huang, Jinhua Du, Can Huang, Wenxuan Huang, Wenhan Ma, Yuyang Hu, Aohan Zeng, Jie Tang, Xu Sun.* ICML'26
+  - [**Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation**](https://openreview.net/forum?id=ivB3PM7XfD) *Sudarshan Sreeram, Young D. Kwon, Cecilia Mascolo.* ICML'26
+  - [**Continual Learning through Control Minimization**](https://openreview.net/forum?id=ix1HdZkO8U) *Sander de Haan, Yassine Taoudi-Benchekroun, Pau Vilimelis Aceituno, Benjamin F. Grewe.* ICML'26
+  - [**Self-Distillation Enables Continual Learning**](https://openreview.net/forum?id=qA6FgH0nnZ) *Idan Shenfeld, Mehul Damani, Jonas Hübotter, Pulkit Agrawal.* ICML'26
+  - [**HypCL: Adapting CLIP in Hyperbolic Space for Continual Learning**](https://openreview.net/forum?id=pqVrvlNCjB) *Quan Cheng, Hao Yu, Da-Wei Zhou, Lijun Zhang.* ICML'26
+  - [**Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning**](https://openreview.net/forum?id=zD2ZhFSexc) *Anushka Tiwari, Kaiyi Ji.* ICML'26
+  - [**Incremental Learning of Sparse Attention Patterns in Transformers**](https://openreview.net/forum?id=vSRh1qU5sH) *Oğuz Kaan Yüksel, Rodrigo Alvarez Lucendo, Nicolas Flammarion.* ICML'26
+
 - 2025
   - [**Understanding Overadaptation in Supervised Fine-Tuning: The Role of Ensemble Methods**](https://icml.cc/virtual/2025/poster/46611) *Yifan HAO, xingyuan pan, Hanning Zhang, Chenlu Ye, Rui Pan, Tong Zhang.* ICML'25
   - [**Upweighting Easy Samples in Fine-Tuning Mitigates Forgetting**](https://openreview.net/forum?id=13HPTmZKbM) *Sunny Sanyal, Hayden Prairie, Rudrajit Das, Ali Kavis, Sujay Sanghavi.* ICML'25
@@ -217,8 +275,7 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Knowledge Retention in Continual Model-Based Reinforcement Learning**](https://icml.cc/virtual/2025/poster/45991) *Haotian Fu, Yixiang Sun, Michael L. Littman, George Konidaris.* ICML'25
   - [**Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety**](https://icml.cc/virtual/2025/poster/45842) *Zihan Guan, Mengxuan Hu, Ronghang Zhu, Sheng Li, Anil Vullikanti.* ICML'25
   - [**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**](https://openreview.net/forum?id=LWH8yn4HS2) *Bernal Jiménez Gutiérrez, Yiheng Shu, Weijian Qi, Sizhe Zhou, Yu Su.* ICML'25
-  - [**Avoiding Catastrophe in Online Learning by Asking for Help**](https://icml.cc/virtual/2025/poster/45563) *Benjamin Plaut, Hanlin Zhu, Stuart Russell
-.* ICML'25
+  - [**Avoiding Catastrophe in Online Learning by Asking for Help**](https://icml.cc/virtual/2025/poster/45563) *Benjamin Plaut, Hanlin Zhu, Stuart Russell.* ICML'25
   - [**CALM: Consensus-Aware Localized Merging for Multi-Task Learning**](https://icml.cc/virtual/2025/poster/45426) *Kunda Yan, Min Zhang, Sen Cui, Qu Zikun, Bo Jiang, Feng Liu, Changshui Zhang.* ICML'25
   - [**Safe Delta: Consistently Preserving Safety when Fine-Tuning LLMs on Diverse Datasets**](https://icml.cc/virtual/2025/poster/45317) *Ning LU, Shengcai Liu, Jiahao Wu, Weiyu CHEN, Zhirui Zhang, Yew Soon ONG, Qi Wang, Ke Tang.* ICML'25
   - [**Boosting Multi-Domain Fine-Tuning of Large Language Models through Evolving Interactions between Samples**](https://icml.cc/virtual/2025/poster/45212) *Xize Liang, Lin Yang, Jie Wang, Yiyang Lu, Runyu Wu, Hanzhu Chen, Jianye Hao.* ICML'25
@@ -412,6 +469,60 @@ Although continued pre-training and continued fine-tuning already have clear def
   - [**Is Large-scale Pretraining the Secret to Good Domain Generalization?**](https://iclr.cc/virtual/2025/poster/27866) *Qintong Li, Jiahui Gao, Sheng Wang, Renjie Pi, Xueliang Zhao, Chuan Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong.* ICLR'25
 
 ### ICML
+- 2026
+  - [**The Tell-Tale Norm: $L_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models**](https://openreview.net/forum?id=03ZTlJuX0y) *Jiaqi Mu, David Bau.* ICML'26
+  - [**Understanding LoRA as Knowledge Memory: An Empirical Analysis**](https://openreview.net/forum?id=0MVEJk4dhE) *Seungju Back, Dongwoo Lee, Naun Kang, Taehee Lee, S. K. Hong, Youngjune Gwon, Sungjin Ahn.* ICML'26
+  - [**Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning**](https://openreview.net/forum?id=1yTbhxUGef) *Jinze Bai, Zhihao Fan, Huan Zhang, Yuhang Zhou, Yuhang Guo, Yefeng Zheng.* ICML'26
+  - [**A Risk Decomposition Framework for Pre-hoc Fine-tuning Prediction**](https://openreview.net/forum?id=2VhdUDz6mO) *Yuxiang Luo, Chen Wang, Nan Tang.* ICML'26
+  - [**When Model Merging Breaks Routing: Training-Free Calibration for MoE**](https://openreview.net/forum?id=1ORZJtadQl) *Canbin Huang, Tianyuan Shi, Xiaojun Quan, Jingang Wang, Jianfei Zhang, Qifan Wang.* ICML'26
+  - [**Midtraining Bridges Pretraining and Posttraining Distributions**](https://openreview.net/forum?id=5PfEQzE9bf) *Emmy Liu, Graham Neubig, Chenyan Xiong.* ICML'26
+  - [**Understanding Generalization and Forgetting in In-Context Continual Learning**](https://openreview.net/forum?id=68AMoK2YNk) *Guangyu Li, Meng Ding, Lijie Hu.* ICML'26
+  - [**What If We Let Forecasting Forget? A Sparse Bottleneck for Cross-Variable Dependencies**](https://openreview.net/forum?id=8tv1WMj3X6) *Yifan Zhang, Yujia Zhang, Yuxuan Liang, Qingsong Wen.* ICML'26
+  - [**On the Convergence Rate of LoRA Gradient Descent**](https://openreview.net/forum?id=9GRlBVAXq8) *Yuege Xie, Zhihui Zhu.* ICML'26
+  - [**Weight-Space Learning for Certifiable Few-shot Transfer Learning**](https://openreview.net/forum?id=AMIV24ianZ) *Fady Rezk, Royson Lee, Henry Gouk, Timothy Hospedales, Minyoung Kim.* ICML'26
+  - [**Panini: Continual Learning in Token Space via Structured Memory**](https://openreview.net/forum?id=BNGK86bQRr) *Shreyas Rajesh, Pavan Holur, Mehmet Yigit Turali, Chenda Duan, Vwani Roychowdhury.* ICML'26
+  - [**In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning**](https://openreview.net/forum?id=BUFSSOuphA) *Yicheng Li, Haobo Zhang, Qian Lin.* ICML'26
+  - [**Representation Unlearning: Forgetting through Information Compression**](https://openreview.net/forum?id=CwjK5eUzcI) *Antonio Almudévar, Alfonso Ortega.* ICML'26
+  - [**TokenDrop: Token-Level Importance-Aware Backward Propagation Skipping for Efficient LLM Fine-Tuning**](https://openreview.net/forum?id=D8DUCALWYb) *Yiming Li, Zhen Dong, Chaojian Li, Zhijian Liu, Kurt Keutzer.* ICML'26
+  - [**Theory of Continual Learning Against Data Poisoning Attacks**](https://openreview.net/forum?id=EvIDneKgn1) *Yiting Hu, Lingjie Duan.* ICML'26
+  - [**Persistent Backdoor Attacks in Class-Incremental Learning via Structural Invariant Anchoring**](https://openreview.net/forum?id=GCm1xe3Clh) *Zhiwei Wang, Yiming Li, Yisen Wang.* ICML'26
+  - [**Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning**](https://openreview.net/forum?id=GbOD25IA88) *Yuxuan Liu, Ziyang Luo, Yuchen Zhang, Yizhou Sun.* ICML'26
+  - [**MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems**](https://openreview.net/forum?id=If4X4W2HWx) *Qingyao Ai, Yichen Tang, Changyue Wang, Jianming Long, Weihang Su, Yiqun Liu.* ICML'26
+  - [**TuneAhead: Predicting Fine-tuning Performance Before Training Begins**](https://openreview.net/forum?id=JBFB2pUOCA) *Yuxiang Luo, Chen Wang, Nan Tang.* ICML'26
+  - [**Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning**](https://openreview.net/forum?id=K9rWNmHhkD) *Jack Lindsey, Wes Gurnee, Emmanuel Ameisen.* ICML'26
+  - [**Test-Time Learning of Causal Structure from Interventional Data**](https://openreview.net/forum?id=Kmv7TjGCru) *Wei Chen, Rui Ding, Bojun Huang, Yang Zhang, Qiang Fu, Yuxuan Liang, Han Shi, Dongmei Zhang.* ICML'26
+  - [**Spectral Collapse Drives Loss of Plasticity in Deep Continual Learning**](https://openreview.net/forum?id=O6rHSkpYJU) *Naicheng He, Kaicheng Guo, Arjun Prakash, Saket Tiwari, Ruo Yu Tao, Tyrone Serapio, Amy Greenwald, George Konidaris.* ICML'26
+  - [**Understanding Catastrophic Forgetting In LoRA via Mean-Field Attention Dynamics**](https://openreview.net/forum?id=MXvuMNd3oI) *Jiachen Li, Qing Qu.* ICML'26
+  - [**Erased but Not Forgotten: How Backdoors Compromise Concept Erasure**](https://openreview.net/forum?id=OpHKAVkOIN) *Jonas Henry Grebe, Tobias Braun, Marcus Rohrbach, Anna Rohrbach.* ICML'26
+  - [**Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers**](https://openreview.net/forum?id=P3b1028tNC) *Yuxuan Yao, Yuxuan Chen, Hui Li, Kaihui Cheng, Qipeng Guo, Yuwei Sun, Zilong Dong, Jingdong Wang, Siyu Zhu.* ICML'26
+  - [**Learning in the Fisher Subspace: A Guided Initialization for LoRA Fine-Tuning**](https://openreview.net/forum?id=P76Q8Pi1E9) *Zhi-Quan Feng, Ying-Jia Lin, Hung-Yu Kao.* ICML'26
+  - [**Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting**](https://openreview.net/forum?id=ODTM64azGa) *Howard Chen, Noam Razin, Karthik Narasimhan, Danqi Chen.* ICML'26
+  - [**How Does the Pretraining Distribution Shape In-Context Learning? A Fundamental Trade-Off**](https://openreview.net/forum?id=QiTBmWiH8G) *Waïss Azizian, Ali Hasan.* ICML'26
+  - [**LOZO+: Provably Efficient Zeroth-Order Fine-Tuning via Greedy Low-Rank Subspace Selection**](https://openreview.net/forum?id=QNScXX6osL) *Pengyu Wang, Lei Li, Xiaolin Hu.* ICML'26
+  - [**ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning**](https://openreview.net/forum?id=Skxb4UgTWU) *Jingfeng Wu, Difan Zou, Vladimir Braverman, Quanquan Gu.* ICML'26
+  - [**Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning**](https://openreview.net/forum?id=UJJfkcJ7K9) *Lingfeng He, De Cheng, Huaijie Wang, Xi Yang, Nannan Wang, Xinbo Gao.* ICML'26
+  - [**When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning**](https://openreview.net/forum?id=Umu6IsAUbS) *Haoran Zhao, Soyeon Caren Han, Eduard Hovy.* ICML'26
+  - [**Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting**](https://openreview.net/forum?id=VnA5q5jXVz) *Mengyang Wu, Archer Y. Yang, Qiang Sun.* ICML'26
+  - [**Annotations Mitigate Post-Training Mode Collapse**](https://openreview.net/forum?id=Wtjwjn1uak) *Jacob Mitchell Springer, Madhu Advani, Lukas Aichberger, Arwen Bradley, Eran Malach, Omid Saremi, Sinead Williamson, Preetum Nakkiran, Etai Littwin, Aditi Raghunathan.* ICML'26
+  - [**Diffract: Spectral View of LLM Domain Adaptation**](https://openreview.net/forum?id=XBUHoiAGDE) *Nikita Borodin, Maria Krylova, Artem Zabolotnyi, Dmitry Aspisov, Egor Shikov, Nikita Tyuplyaev, Oleg Travkin, Roman Alferov, Dmitry Vinichenko.* ICML'26
+  - [**Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?**](https://openreview.net/forum?id=Y3K0pPyVcs) *Jiawei Du, Yiming Li, Shuo Yang, Jun Zhu.* ICML'26
+  - [**Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts**](https://openreview.net/forum?id=YL9lAEeoXw) *Yiding Jiang, Zhenmei Shi, Beidi Chen.* ICML'26
+  - [**Merge to Remember: Sharpness-Aware Isotropic Merging for Continual Learning**](https://openreview.net/forum?id=aWfk16EvfM) *Qun Yang, Enneng Yang, Wei Chen, Li Shen, Long Lan.* ICML'26
+  - [**Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity**](https://openreview.net/forum?id=b7P2WegaBY) *Yongcheng Jing, Yichen Li, Haozhao Wang, Ruixuan Li.* ICML'26
+  - [**How much can language models memorize?**](https://openreview.net/forum?id=bA6BgSbaUi) *John Xavier Morris, Chawin Sitawarin, Narine Kokhlikyan, Chuan Guo, G. Edward Suh, Alexander M. Rush, Kamalika Chaudhuri, Saeed Mahloujifar.* ICML'26
+  - [**Towards Understanding the Dynamics of Low-Rank Adaptation**](https://openreview.net/forum?id=dPvcpbbLSs) *Yuchen Zeng, Kangwook Lee.* ICML'26
+  - [**Multi-Head Attention as a Source of Catastrophic Forgetting in MoE Transformers**](https://openreview.net/forum?id=iXhFXwIbvi) *Anrui Chen, Ruijun Huang, Xin Zhang, Fang Dong, Hengjie Cao, Zhendong Huang, Yifeng Yang, Mengyi Chen, Jixian Zhou, Jiahao Liu, Yuxuan Liang, Weizhu Chen, Furu Wei, Xueqi Cheng, Ji-Rong Wen, Jiaxin Mao, Yiqun Liu, Shaoping Ma.* ICML'26
+  - [**STAR: Rethinking MoE Routing as Structure-Aware Subspace Learning**](https://openreview.net/forum?id=jUE8i1vAKJ) *Sumin Park, Noseong Park.* ICML'26
+  - [**Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models**](https://openreview.net/forum?id=jl2f2Y3iuC) *Changwoo Lee, Juho Sohn, Kyoungseok Lee.* ICML'26
+  - [**Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation**](https://openreview.net/forum?id=kqE6GjpQTn) *Hao Gu, Mao-Lin Luo, Zi-Hao Zhou, Han-Chen Zhang, Min-Ling Zhang, Tong Wei.* ICML'26
+  - [**On the Theory of Continual Learning with Gradient Descent for Neural Networks**](https://openreview.net/forum?id=l35QweVxgn) *Hossein Taheri, Avishek Ghosh, Arya Mazumdar.* ICML'26
+  - [**On the Plasticity and Stability for Post-Training Large Language Models**](https://openreview.net/forum?id=lOR6zI5peb) *Wenwen Qiang, Ziyin Gu, Jiahuan Zhou, Jie Hu, Jingyao Wang, Changwen Zheng, Hui Xiong.* ICML'26
+  - [**Learning to Remember, Learn, and Forget in Attention-Based Models**](https://openreview.net/forum?id=wKMV7mXjUr) *Djohan Bonnet, Jamie Lohoff, Jan Finkbeiner, Elidona Skhikerujah, Emre Neftci.* ICML'26
+  - [**WeightCLIP: Aligning Datasets and Models for Weight Space Learning**](https://openreview.net/forum?id=r78W8FyCgy) *Fady Rezk, Royson Lee, Henry Gouk, Timothy Hospedales, Minyoung Kim.* ICML'26
+  - [**Many-Shot CoT-ICL: Making In-Context Learning Truly Learn**](https://openreview.net/forum?id=rzBWwdKik8) *Tsz Ting Chung, Lemao Liu, Mo Yu, Dit-Yan Yeung.* ICML'26
+  - [**Weight Decay Improves Language Model Plasticity**](https://openreview.net/forum?id=zMO9H4hLyR) *Tessa Han, Sebastian Bordt, Hanlin Zhang, Sham Kakade.* ICML'26
+  - [**The Forgetting-Retention Dilemma: Certified Unlearning Theory in Continual Learning**](https://openreview.net/forum?id=zlIyJEp9nM) *Yiting Hu, Lingjie Duan, Qian Zhang.* ICML'26
+
 - 2025
   - [**Positional Attention: Expressivity and Learnability of Algorithmic Computation**](https://icml.cc/virtual/2025/poster/46691) *Artur Back de Luca, George Giapitzakis, Shenghao Yang, Petar Veličković, Kimon Fountoulakis.* ICML'25
   - [**Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis**](https://icml.cc/virtual/2025/poster/46507) *Xu Wang, Yan Hu, Wenyu Du, Reynold Cheng, Benyou Wang, Difan Zou.* ICML'25
@@ -596,6 +707,28 @@ Although continued pre-training and continued fine-tuning already have clear def
 
 
 ### ICML
+- 2026
+  - [**Unlearning with Asymmetric Sources: Improved Unlearning-Utility Trade-off with Public Data**](https://openreview.net/forum?id=0H7OYNDQS4) *Ahmed Mehdi Inane, Vincent Quirion, Gintare Karolina Dziugaite, Ioannis Mitliagkas.* ICML'26
+  - [**De-attribute to Forget for LLM Unlearning**](https://openreview.net/forum?id=1ayYE4GiCJ) *Xinyang Lu, Jiabao Pan, Rachael Hwee Ling Sim, See-Kiong Ng, Anthony Kum Hoe Tung, Bryan Kian Hsiang Low.* ICML'26
+  - [**MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs**](https://openreview.net/forum?id=60cv928EVo) *He Li, Haoang Chi, Qizhou Wang, Yunxin Mao, Zhiheng Zhang, Jie Tan, Tongliang Liu, Wenjing Yang, Bo Han.* ICML'26
+  - [**Variance-Reduced $(\varepsilon, \delta)$-Unlearning using Forget Set Gradients**](https://openreview.net/forum?id=6XIwgtbcTa) *Martin Van Waerebeke, Giovanni Neglia, Kevin Scaman, Marco Lorenzi, El-Mahdi El-Mhamdi.* ICML'26
+  - [**Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance**](https://openreview.net/forum?id=7Oc4ARFCTV) *Jacob L. Block, Mehryar Mohri, Aryan Mokhtari, Sanjay Shakkottai.* ICML'26
+  - [**Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning**](https://openreview.net/forum?id=ADE3kRAise) *Jianzhou Wang, Yirui Wu, Lixin Yuan, Wenxiao Zhang, Jun Liu.* ICML'26
+  - [**Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning**](https://openreview.net/forum?id=FFEKmtsT4S) *Puning Yang, Junchi Yu, Qizhou Wang, Philip Torr, Bo Han, Xiuying Chen.* ICML'26
+  - [**Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking**](https://openreview.net/forum?id=FfrpNZofIk) *Kaiyuan Deng, Bo Hui, Gen Li, Jie Ji, Minghai Qin, Geng Yuan, Xiaolong Ma.* ICML'26
+  - [**Leveraging Machine Unlearning for Cost-Efficient Preference Alignment**](https://openreview.net/forum?id=FhCu8IlO2e) *XiaoHua Feng, Yuyuan Li, HuWei Ji, Li Zhang, Jiaming Zhang, Tianyu Du, Chaochao Chen.* ICML'26
+  - [**Forget by Uncertainty: Orthogonal Entropy Unlearning for Quantized Neural Networks**](https://openreview.net/forum?id=GtNkETQE6w) *Tian Zhang, Yujia Tong, Junhao Dong, Ke Xu, Yuze Wang, Jingling Yuan.* ICML'26
+  - [**Obliviate: Efficient Unlearning in Recommender Systems**](https://openreview.net/forum?id=ID9vIdHA4Y) *Tushar Prakash, Brijraj Singh, Niranjan Pedanekar, Narayan Chaturvedi.* ICML'26
+  - [**More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing**](https://openreview.net/forum?id=OcCpVIcgaY) *Xin Ma, Wei Chen, Qi Liu, Derong Xu, Zhi Zheng, Tong Xu, Enhong Chen.* ICML'26
+  - [**Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility**](https://openreview.net/forum?id=PQqbcFehs4) *Chaoyi Xiang, Olga Ohrimenko, Benjamin I. P. Rubinstein, Lea Frermann.* ICML'26
+  - [**TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing**](https://openreview.net/forum?id=QE2GA6OIC8) *Hanpin Wang et al.* ICML'26
+  - [**Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure**](https://openreview.net/forum?id=XmWKBDYmtk) *Chenchen Tan, Xinghao Li, Shujie Cui, Youyang Qu, Cunjian Chen, Longxiang Gao.* ICML'26
+  - [**Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack**](https://openreview.net/forum?id=XcwdniuaYh) *SeungBum Ha, Saerom Park, Sung Whan Yoon.* ICML'26
+  - [**How Hard Can It Be? Hardness-Aware Multi-Objective Unlearning**](https://openreview.net/forum?id=fr24r9nunW) *Jiangwei Chen, Xinyuan Niu, Rachael Hwee Ling Sim, Zhengyuan Liu, Nancy F. Chen, Bryan Kian Hsiang Low.* ICML'26
+  - [**Forgetting Whenever You Want: A Decentralized Continual Learning Framework with On-Demand Unlearning**](https://openreview.net/forum?id=pSOiiUSOzp) *Xiao Zhang, Zengzhe Chen, Mingyi Li, Jing Qiao, Fuzhen Zhuang, Yuan Yuan, Dongxiao Yu.* ICML'26
+  - [**Unlearning Isn't Forgetting: Revealing Hidden Leakage in Class Unlearning Evaluations**](https://openreview.net/forum?id=v2mY3gjdnP) *Ali Ebrahimpour-Boroojeny, Yian Wang, Hari Sundaram.* ICML'26
+  - [**Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding**](https://openreview.net/forum?id=sREOiWynXf) *Hadi Reisizadeh, Jiajun Ruan, Yiwei Chen, Soumyadeep Pal, Sijia Liu, Mingyi Hong.* ICML'26
+
 - 2025
   - [**Reinforced Lifelong Editing for Language Models**](https://openreview.net/forum?id=1jUXprrfcb) *Zherui Li, Houcheng Jiang, Hao Chen, Baolong Bi, Zhenhong Zhou, Fei Sun, Junfeng Fang, Xiang Wang.* ICML'25
   - [**Towards Lifelong Model Editing via Simulating Ideal Editor**](https://icml.cc/virtual/2025/poster/45062) *Yaming Guo, Siyang Guo, Hengshu Zhu, Ying Sun.* ICML'25

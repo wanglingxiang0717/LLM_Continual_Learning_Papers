@@ -112,6 +112,13 @@ Although continued pre-training and continued fine-tuning already have clear def
 
 
 ### ACL
+- 2026
+  - [**Can Continual Pretraining Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?**](https://aclanthology.org/2026.acl-long.17/) *Niclas Doll, Jasper Schulze Buschhoff, Shalaka Satheesh, Hammam Abdelwahab, Héctor Allende-Cid, Katrin Klug.* ACL'26
+  - [**AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages**](https://aclanthology.org/2026.acl-long.267/) *Hao Yu, Tianyi Xu, Michael A. Hedderich, Wassim Hamidouche, Syed Waqas Zamir, David Ifeoluwa Adelani.* ACL'26
+  - [**Ted-Tok: Maintaining an Evolving Vocabulary for Lifelong Learning**](https://aclanthology.org/2026.acl-long.394/) *Jiameng Huang, Zhi Zhang, Zhenyu He, Jiacheng Sun, Di He.* ACL'26
+  - [**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**](https://aclanthology.org/2026.acl-long.427/) *Kailai Yang, Xiao Liu, Lei Ji, Hao Li, Xiao Liang, Zhiwei Liu, Yeyun Gong, Peng Cheng, Mao Yang.* ACL'26
+  - [**From Experts to Bases: Orthogonal Subspace Mixture for Continual Multimodal Instruction Tuning**](https://aclanthology.org/2026.acl-long.481/) *Pei Chen, Xilai Wang, Shiqixu, Zejian Li, Lingyun Sun.* ACL'26
+  - [**Perplexity-Aware Data Scaling Law: Perplexity Landscapes Predict Performance for Continual Pre-training**](https://aclanthology.org/2026.acl-long.999/) *Lei Liu, Hao Zhu, Xiaoyan Yang, Yue Shen, Zhixuan Chu, Jian Wang, Jinjie Gu, Kui Ren.* ACL'26
 - 2025
   - [**Fusing Highly Specialized Language Models for Comprehensive Expertise**](https://aclanthology.org/2025.acl-long.42/) *Ning Ding, Yulin Chen, Ganqu Cui, Xingtai Lv, Weilin Zhao, Kaiyan Zhang, Ruobing Xie, Bowen Zhou, Zhiyuan Liu, Maosong Sun.* ACL'25
   - [**LangSAMP: Language-Script Aware Multilingual Pretraining**](https://aclanthology.org/2025.acl-long.88/) *Yihong Liu, Haotian Ye, Chunlan Ma, Mingyang Wang, Hinrich Schuetze.* ACL'25
@@ -345,6 +352,29 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[Bigger, Regularized, Categorical: High-Capacity Value Functions are Efficient Multi-Task Learners](https://openreview.net/forum?id=zhOUfuOIzA)** *Hao Sun, Zhexuo Li, Zhiyuan Liu.* NeurIPS'25
 
 ### ACL
+- 2026
+  - [**Toward Secure Tuning: Mitigating Security Risks from Instruction Fine-Tuning**](https://aclanthology.org/2026.acl-long.115/) *Yanrui Du, Fenglei Fan, Sendong Zhao, Jiawei Cao, Ming Ma, Danyang Zhao, Shuren Qi, Ting Liu, Bing Qin.* ACL'26
+  - [**K-Merge: Online Continual Merging of Adapters for On-device Large Language Models**](https://aclanthology.org/2026.acl-long.137/) *Donald Shenaj, Ondrej Bohdal, Taha Ceritli, Mete Ozay, Pietro Zanuttigh, Umberto Michieli.* ACL'26
+  - [**OASIS: Online Sample Selection for Continual Instruction Tuning**](https://aclanthology.org/2026.acl-long.158/) *Minjae Lee, Minhyuk Seo, Tingyu Qu, Tinne Tuytelaars, Jonghyun Choi.* ACL'26
+  - [**Representation Interventions Enable Lifelong Knowledge Memory Control in LLMs**](https://aclanthology.org/2026.acl-long.246/) *Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, Zhengzhang Chen.* ACL'26
+  - [**SLoRA: Balancing Plasticity and Forgetting in Large Language Models for Continual Learning**](https://aclanthology.org/2026.acl-long.247/) *Lina Yang, Yusheng Liao, Yanfeng Wang, Yu Wang.* ACL'26
+  - [**SOS-LoRA: Static Orthogonal-Subspace Low-Rank Adaptation with Fixed Multi-Scale Scaling**](https://aclanthology.org/2026.acl-long.184/) *Yupeng Chang, Yuan Wu, Yi Chang.* ACL'26
+  - [**Spectral Disentanglement: Rank-Aware Task Adaptation for Rehearsal-free Continual Learning in LLMs**](https://aclanthology.org/2026.acl-long.334/) *Huanxuan Liao, Shizhu He, Yupu Hao, Yequan Wang, Wenhao Teng, Xiangwen Liao, Jun Zhao, Kang Liu.* ACL'26
+  - [**Reinforcement Learning on Pre-Training Data**](https://aclanthology.org/2026.acl-long.506/) *Siheng Li, Kejiao Li, Zenan Xu, Guanhua Huang, Kun Li, Haoyuan Wu, Wujiajia, Zihao Zheng, Chenchen Zhang, Kun Shi, Xue Gong, Qi Yi, Ruibin Xiong, Tingqiang Xu, Yuhao Jiang, Jianfeng Yan, Yuyuan Zeng, Guanghui Xu, Jinbao Xue, Zhijiang xu, Zheng Fang, Shuai LI, Qibin Liu, Xiaoxue Li, Zhuoyu Li, Yangyu Tao, Fei Gao, Cheng Jiang, Bochao Wang, Kai Liu, Jianchen Zhu, Wai Lam, Bo Zhou, Di Wang.* ACL'26
+  - [**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**](https://aclanthology.org/2026.acl-long.550/) *Pingzhi Tang, Yiding Wang, Muhan Zhang.* ACL'26
+  - [**Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models**](https://aclanthology.org/2026.acl-long.617/) *Hao Wang, Hao Gu, Hongming Piao, Kaixiong Gong, Yuxiao Ye, Xiangyu Yue, Sirui Han, Yike Guo, Dapeng Wu.* ACL'26
+  - [**FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation**](https://aclanthology.org/2026.acl-long.658/) *Cy Xie.* ACL'26
+  - [**Domain Generalizable AI Guardrails with Augmented Policy Training**](https://aclanthology.org/2026.acl-long.748/) *Minqian Liu, Ioana Baldini, David Rabinowitz, David S Rosenberg, Sebastian Gehrmann, Mark Dredze.* ACL'26
+  - [**Soft Orthogonal Low-Rank Adaptation for Knowledge Sharing in Large Language Model Continual Learning**](https://aclanthology.org/2026.acl-long.842/) *Yitong Wang, Xue Han, WenChun Gao, Qian Hu, Jiahui Wang, Ziqing Wang, Lijun Mei, Junlan Feng.* ACL'26
+  - [**Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates**](https://aclanthology.org/2026.acl-long.865/) *Atsuki Yamaguchi, Terufumi Morishita, Aline Villavicencio, Nikolaos Aletras.* ACL'26
+  - [**SelFusion: Self-distillation for Diffusion Language Models**](https://aclanthology.org/2026.acl-long.1008/) *Hyeongsoo Lim, Jinyoung Kim, Eun Seo Seo, Min Ho Jang, Ji Won Yoon.* ACL'26
+  - [**SADA: Bridging In-Context Learning and Fine-Tuning via State-Aligned Distillation Adapters**](https://aclanthology.org/2026.acl-long.1046/) *Wenhao Gao, Tianlong Wang, Wei Jia, Linhao Zhang, Aiwei Liu, Miao Fan, Zhou Xiao.* ACL'26
+  - [**FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning**](https://aclanthology.org/2026.acl-long.1144/) *Yujie Feng, Hao Wang, Jian Li, Xu Chu, Zhaolu Kang, Yiran Liu, Yasha Wang, Philip S. Yu, Xiao-Ming Wu.* ACL'26
+  - [**Can Spectral-Clipping Enable Better Learning While Forgetting Less for Low-Rank Adaptation?**](https://aclanthology.org/2026.acl-long.1179/) *Hyowon Wi, Noseong Park.* ACL'26
+  - [**CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement**](https://aclanthology.org/2026.acl-long.1321/) *Guirong Chen, Shuqi Ye, Wenkai Yang, Shiqi Shen, Guangyao Shen, Yankai Lin.* ACL'26
+  - [**PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning**](https://aclanthology.org/2026.acl-long.1474/) *ZhiYan Hou, Haiyun Guo, Haokai Ma, Yandu Sun, Yonghui Yang, Jinqiao Wang.* ACL'26
+  - [**Parameter Importance is Not Static: Evolving Parameter Isolation for Supervised Fine-Tuning**](https://aclanthology.org/2026.acl-long.1516/) *Zekai Lin, Chao Xue, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Lei Jiang, Yu Lu, Bob Simons, Shuang Liang, Minlong Peng.* ACL'26
+  - [**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**](https://aclanthology.org/2026.acl-long.1659/) *Siqi Fan, Xiusheng Huang, Yiqun Yao, Xuezhi Fang, Kang Liu, Peng Han, Shuo Shang, Aixin Sun, Yequan Wang.* ACL'26
 - 2025
   - [**ATLANTIS: Weak-to-Strong Learning via Importance Sampling**](https://aclanthology.org/2025.acl-long.52/) *Yi Liu, Guoyin Wang, Shicheng Li, Feifan Song, Xu Sun.* ACL'25
   - [**Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models**](https://aclanthology.org/2025.acl-long.118/) *Anirudh Sundar, Sinead Williamson, Katherine Metcalf, Barry-John Theobald, Skyler Seto, Masha Fedzechkina.* ACL'25
@@ -613,6 +643,53 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness](https://openreview.net/forum?id=BmEH70Wjcu)** *Zhiyu Zhang, Wei Chen, Huaiyu Wan.* NeurIPS'25
 
 ### ACL
+- 2026
+  - [**Learning Diverse Responses with Prefix-Conditioned Supervised Fine-Tuning**](https://aclanthology.org/2026.acl-long.9/) *Zhiyuan Fan, Guanqiao Chen, Yanyi Huang, Mingkuan Zhao, Dadi Guo, Yi R. Fung.* ACL'26
+  - [**What Makes Good Instruction-Tuning Data? An In-Context Learning Perspective**](https://aclanthology.org/2026.acl-long.45/) *Guangzeng Han, Xiaolei Huang.* ACL'26
+  - [**Exploring Attention Attractors in Large Language Models**](https://aclanthology.org/2026.acl-long.51/) *Ziheng Wang, Zihao Yue, Wenxuan Wang, Qin Jin.* ACL'26
+  - [**Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining**](https://aclanthology.org/2026.acl-long.60/) *Deniz Bayazit, Aaron Mueller, Antoine Bosselut.* ACL'26
+  - [**TiKMiX: Efficient Semi-Dynamic Data Mixture via Data Influence for LLM Pre-training**](https://aclanthology.org/2026.acl-long.261/) *Yifan Wang, Binbinliu, Fengze Liu, Yuanfan Guo, Jiyao Deng, Xuecheng Wu, Weidong Zhou, Xiaohuan Zhou, Taifeng Wang.* ACL'26
+  - [**Multi-Granularity Semantic Revision for Large Language Model Distillation**](https://aclanthology.org/2026.acl-long.212/) *Xiaoyu Liu, Yun Zhang, Wei Li, Simiao Li, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, Yunhe Wang.* ACL'26
+  - [**Instruction Data Selection via Answer Divergence**](https://aclanthology.org/2026.acl-long.214/) *Bo Li, Mingda Wang, Shikun Zhang, Wei Ye.* ACL'26
+  - [**Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation**](https://aclanthology.org/2026.acl-long.215/) *Dianyun Wang, Qingsen Ma, Yuhu Shang, Zhifeng Lu, Zhenbo Xu, Lechen Ning, Huijia Wu, Zhaofeng He.* ACL'26
+  - [**Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs**](https://aclanthology.org/2026.acl-long.435/) *Yu Li, Xiaoran Shang, Qizhi Pei, Yun Zhu, Xin Gao, Honglin Lin, Zhanping Zhong, Zhuoshi Pan, Zheng Liu, Xiaoyang Wang, Conghui He, Dahua Lin, Feng Zhao, Lijun Wu.* ACL'26
+  - [**Understanding or Memorizing? A Case Study of German Definite Articles in Language Models**](https://aclanthology.org/2026.acl-long.436/) *Jonathan Drechsel, Erisa Bytyqi, Steffen Herbold.* ACL'26
+  - [**InstructDiff: Domain-Adaptive Data Selection via Contrastive Entropy for Efficient LLM Fine-Tuning**](https://aclanthology.org/2026.acl-long.486/) *Junyou Su, He Zhu, Xiao Luo, Liyu Zhang, Hong-Yu Zhou, Yun Chen, Peng Li, Yang Liu, Guanhua Chen.* ACL'26
+  - [**Learning from Evolving Training Dynamics: An Entropy-Maximizing Data Curation Strategy for LLM Supervised Post-Training**](https://aclanthology.org/2026.acl-long.505/) *Mengxiang Zhang, Lingyuan Liu.* ACL'26
+  - [**Why Multimodal In-Context Learning Lags Behind? Unveiling the Inner Mechanisms and Bottlenecks**](https://aclanthology.org/2026.acl-long.622/) *Yu Wang, Sharon Li.* ACL'26
+  - [**For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs**](https://aclanthology.org/2026.acl-long.664/) *Wenlong Deng, Qi Zeng, Jiaming Zhang, Minghui Chen, Zixin Ding, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li.* ACL'26
+  - [**Language Models Struggle to Use Representations Learned In-Context**](https://aclanthology.org/2026.acl-long.676/) *Michael A. Lepori, Tal Linzen, Ann Yuan, Katja Filippova.* ACL'26
+  - [**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**](https://aclanthology.org/2026.acl-long.756/) *Lei Hsiung, Tianyu Pang, Yung-Chen Tang, Linyue Song, Tsung-Yi Ho, Pin-Yu Chen, Yaoqing Yang.* ACL'26
+  - [**LOKA: Conflict-Aware LLM Knowledge Update with Adaptive Knowledge Memory**](https://aclanthology.org/2026.acl-long.760/) *Binchi Zhang, Zhengzhang Chen, Zaiyi Zheng, Jundong Li, Haifeng Chen.* ACL'26
+  - [**Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection**](https://aclanthology.org/2026.acl-long.771/) *Yuwei Zhang, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang.* ACL'26
+  - [**What Do LLMs Learn First? Asymmetric Learning Dynamics of Input Complexity and Output Ambiguity in Preference Alignment**](https://aclanthology.org/2026.acl-long.789/) *Mengyang Li, Jingwen Wang, Pinlong Zhao.* ACL'26
+  - [**Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning**](https://aclanthology.org/2026.acl-long.802/) *Yanbei Jiang, Amr Keleg, Ryandito Diandaru, Jey Han Lau, Lea Frermann, Biaoyan Fang, Fajri Koto.* ACL'26
+  - [**Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures**](https://aclanthology.org/2026.acl-long.889/) *Yi Hu, Jiaqi Gu, Ruxin Wang, Zijun Yao, Hao Peng, Xiaobao Wu, Jianhui Chen, Muhan Zhang, Liangming Pan.* ACL'26
+  - [**Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention**](https://aclanthology.org/2026.acl-long.921/) *Zhen Yang, Mingyang Zhang, Feng Chen, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen.* ACL'26
+  - [**Mem$^2$Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**](https://aclanthology.org/2026.acl-long.952/) *Zihao Cheng, Zeming Liu, Yingyu Shan, Xinyi Wang, Xiangrong Zhu, Yunpu Ma, Hongru Wang, Yuhang Guo, Wei Lin, Yunhong Wang.* ACL'26
+  - [**Probing the Safety Robustness of LLMs in Latent Space**](https://aclanthology.org/2026.acl-long.967/) *Tianle Gu, Kexin Huang, Zongqi Wang, Yixu Wang, Jie Li, Xin Wang, Yang Yao, Yujiu Yang, Yan Teng, Yingchun Wang.* ACL'26
+  - [**How Can Synthetic Data Improve Multilingual Language Model Pretraining? A Data Quality Perspective**](https://aclanthology.org/2026.acl-long.1002/) *Tongyao Zhu, Qian Liu, Chang Ma, Jinghan Zhang, Longxu Dou, Junxian He, Shiqi Chen.* ACL'26
+  - [**Beyond Meta-Reasoning: Metacognitive Consolidation for Self-Improving LLM Reasoning**](https://aclanthology.org/2026.acl-long.1095/) *Ziqing Zhuang, Linhai Zhang, Jiasheng Si, Deyu Zhou, Yulan He.* ACL'26
+  - [**Attention Basin: Why Contextual Position Matters in Large Language Models**](https://aclanthology.org/2026.acl-long.1198/) *Zihao Yi, Zhenqing Ling, Delong Zeng, Haohao Luo, Zhe Xu, Wei Liu, Jian Luan, Wanxia Cao, Ying Shen.* ACL'26
+  - [**Beyond Scaling: Measuring and Predicting the Upper Bound of Knowledge Retention in Language Model Pre-Training**](https://aclanthology.org/2026.acl-long.1214/) *Changhao Jiang, Ming Zhang, Yifei Cao, Junjie Ye, Xiaoran Fan, Shihan Dou, Zhiheng Xi, Jiajun Sun, Yi Dong, Yujiong Shen, Jingqi Tong, Baoyu Fan, Tao Gui, Qi Zhang, Xuanjing Huang.* ACL'26
+  - [**The Evolution of Thought: Tracking LLM Overthinking via Reasoning Dynamics Analysis**](https://aclanthology.org/2026.acl-long.1239/) *Zihao Wei, Liang Pang, Jiahao Liu, Wenjie Shi, Jingcheng Deng, Shicheng Xu, Zenghao Duan, Jingang Wang, Fei Sun, Huawei Shen, Xueqi Cheng.* ACL'26
+  - [**Temporal Sampling for Forgotten Reasoning in LLMs**](https://aclanthology.org/2026.acl-long.1305/) *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.* ACL'26
+  - [**Mitigating Structural Knowledge Collapse in Domain-Specific LLMs via Morpheme-Aware KV-Aggregation**](https://aclanthology.org/2026.acl-long.1355/) *Yuxuan Si, Zheqi Lv, Chengxi Zang, Zhengyu Chen, Fei Wu.* ACL'26
+  - [**Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics**](https://aclanthology.org/2026.acl-long.1463/) *Ziwen Xu, Chenyan WU, Hengyu Sun, Haiwen Hong, Mengru Wang, Yunzhi Yao, Longtao Huang, Hui Xue, Shumin Deng, Zhixuan Chu, Huajun Chen, Ningyu Zhang.* ACL'26
+  - [**Gated Differentiable Working Memory for Long-Context Language Modeling**](https://aclanthology.org/2026.acl-long.1471/) *Lingrui Mei, Shenghua Liu, Yiwei Wang, Yuyao Ge, Baolong Bi, Jiayu Yao, Jun Wan, Ziling Yin, Jiafeng Guo, Xueqi Cheng.* ACL'26
+  - [**MTA: Multi-Granular Trajectory Alignment for Large Language Model Distillation**](https://aclanthology.org/2026.acl-long.1507/) *Pham Khanh Chi, Quoc Phong Dao, Thuat Nguyen, Linh Ngo Van, Trung Le, Thanh Hong Nguyen.* ACL'26
+  - [**Vocabulary Shapes Cross-Lingual Variation of Word-Order Learnability in Language Models**](https://aclanthology.org/2026.acl-long.1510/) *Jonas Mayer Martins, Jaap Jumelet, Viola Priesemann, Lisa Beinborn.* ACL'26
+  - [**Quantifying and Understanding Uncertainty in Large Reasoning Models**](https://aclanthology.org/2026.acl-long.1511/) *Yangyi Li, Chenxu Zhao, Mengdi Huai.* ACL'26
+  - [**How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients**](https://aclanthology.org/2026.acl-long.1536/) *Ming Li, Yanhong Li, Ziyue Li, Tianyi Zhou.* ACL'26
+  - [**Can LLM Safety Be Ensured by Constraining Parameter Regions?**](https://aclanthology.org/2026.acl-long.1616/) *Zongmin Li, Jian Su, Farah Benamara, Aixin Sun.* ACL'26
+  - [**Reasoning Hijacking: The Fragility of Reasoning Alignment in Large Language Models**](https://aclanthology.org/2026.acl-long.1698/) *Yuansen Liu, Yixuan Tang, Anthony Kum Hoe Tung.* ACL'26
+  - [**Characterizing the Expressivity of Local Attention in Transformers**](https://aclanthology.org/2026.acl-long.1739/) *Jiaoda Li, Ryan Cotterell.* ACL'26
+  - [**BEFT: Bias-Efficient Fine-Tuning of Language Models in Low-Data Regimes**](https://aclanthology.org/2026.acl-long.1799/) *Baichuan Huang, Ananth Balashankar, Amir Aminifar.* ACL'26
+  - [**Fine-tuning vs. In-context Learning in Large Language Models: A Formal Language Learning Perspective**](https://aclanthology.org/2026.acl-long.1932/) *Bishwamittra Ghosh, Soumi Das, Till Speicher, Qinyuan Wu, Mohammad Aflah Khan, Deepak Garg, Krishna P. Gummadi, Evimaria Terzi.* ACL'26
+  - [**Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment**](https://aclanthology.org/2026.acl-long.1950/) *Yuming Yang, Mingyoung Lai, Wanxu Zhao, Xiaoran Fan, Zhiheng Xi, Mingqi Wu, Chiyue Huang, Jun Zhao, Haijun Lv, Jian Tong, Yunhua Zhou, Yicheng Zou, Qipeng Guo, Tao Gui, Qi Zhang, Xuanjing Huang.* ACL'26
+  - [**Knowledge Vector of Logical Reasoning in Large Language Models**](https://aclanthology.org/2026.acl-long.2021/) *Zixuan Wang, Yuanyuan Lei.* ACL'26
+  - [**Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory**](https://aclanthology.org/2026.acl-long.2084/) *Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu.* ACL'26
+  - [**Look Within or Beyond? A Theoretical Comparison Between Parameter-Efficient and Full Fine-Tuning**](https://aclanthology.org/2026.acl-long.2208/) *YongKang Liu, Xingle Xu, Ercong Nie, Zijing Wang, Shi Feng, Daling Wang, Qian Li, Hinrich Schuetze.* ACL'26
 - 2025
   - [**EvoWiki: Evaluating LLMs on Evolving Knowledge**](https://aclanthology.org/2025.acl-long.47/) *Wei Tang, Yixin Cao, Yang Deng, Jiahao Ying, Bo Wang, Yizhe Yang, Yuyue Zhao, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang, Yong Liao.* ACL'25
   - [**Evaluating Lexical Proficiency in Neural Language Models**](https://aclanthology.org/2025.acl-long.64/) *Cristiano Ciaccio, Alessio Miaschi, Felice Dell’Orletta.* ACL'25
@@ -757,6 +834,20 @@ Although continued pre-training and continued fine-tuning already have clear def
   * **[Efficient Utility-Preserving Machine Unlearning with Implicit Gradient Surgery](https://openreview.net/forum?id=vzcVDwLtwA)** *Xin-Chun Li, Yan-Fei Wang, De-Chuan Zhan.* NeurIPS'25
 
 ### ACL
+- 2026
+  - [**Aligning Language Models with Real-time Knowledge Editing**](https://aclanthology.org/2026.acl-long.14/) *Chenming Tang, Yutong Yang, Kexue Wang, Yunfang Wu.* ACL'26
+  - [**Erasing Without Remembering: Implicit Knowledge Forgetting in Large Language Models**](https://aclanthology.org/2026.acl-long.88/) *Huazheng Wang, Yongcheng Jing, Haifeng Sun, Yingjie Wang, Jingyu Wang, Jianxin Liao, Dacheng Tao.* ACL'26
+  - [**Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression**](https://aclanthology.org/2026.acl-long.145/) *Dahyun Jung, Jaewook Lee, Heuiseok Lim.* ACL'26
+  - [**Can Factual Opinions Be Edited (Manipulated) in Large Language Models?**](https://aclanthology.org/2026.acl-long.627/) *Yuanpu Cao, Ziyi Yin, Fenglong Ma, Jinghui Chen.* ACL'26
+  - [**Modeling LLM Unlearning as an Asymmetric Two-Task Learning Problem**](https://aclanthology.org/2026.acl-long.890/) *Zeguan Xiao, Siqing Li, Yong Wang, Xuetao Wei, Jian Yang, Yun Chen, Guanhua Chen.* ACL'26
+  - [**Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning**](https://aclanthology.org/2026.acl-long.893/) *Naixin Zhai, Pengyang Shao, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun Yang.* ACL'26
+  - [**CAKE: Causal-Guided Adaptive Knowledge Editing for LLMs**](https://aclanthology.org/2026.acl-long.918/) *Shuxin Liu, Jianhao Zhang.* ACL'26
+  - [**Fisher-Driven Adaptive Locating for Knowledge Editing in Large Language Models**](https://aclanthology.org/2026.acl-long.957/) *Chenghao Xu, Jiexi Yan, Guangtao Lyu, Qi Liu, Muli Yang, Cheng Deng.* ACL'26
+  - [**TamEdit: Trajectory-Aware Meta-Learning for Specificity-Preserving Continual Knowledge Editing**](https://aclanthology.org/2026.acl-long.979/) *Shiqiang Tian, Cheng Ding, Qin Chen, Jie Zhou, Liang He.* ACL'26
+  - [**Forget What Matters, Keep the Rest: Selective Unlearning of Informative Tokens**](https://aclanthology.org/2026.acl-long.1175/) *Seunghee Koh, Sunghyun Baek, Youngdong Kim, Junmo Kim.* ACL'26
+  - [**Decoding-Unlearning: Fact Forgetting via Entropy-Guided Inference**](https://aclanthology.org/2026.acl-long.1850/) *Jingwen Pu, Mingjun Shi, Xinrui Ren, Yizhe Wang, Xinyu Zhang, Zhaokun Wang, Kun She.* ACL'26
+  - [**HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning**](https://aclanthology.org/2026.acl-long.1855/) *Yangfan Wang, Tianyang Sun, Chen Tang, Jie Liu, Wei Cai, Jingchi Jiang.* ACL'26
+  - [**CAP: Controllable Alignment Prompting for Unlearning in LLMs**](https://aclanthology.org/2026.acl-long.1882/) *Zhaokun Wang, Jinyu Guo, Jingwen Pu, Hongli Pu, Meng Yang, Xunlei Chen, Jie Ou, Wenyi Li, Guangchun Luo, Wenhong Tian.* ACL'26
 - 2025
   - [**AdaEdit: Advancing Continuous Knowledge Editing For Large Language Models**](https://aclanthology.org/2025.acl-long.208/) *Qi Li, Xiaowen Chu.* ACL'25
   - [**Knowledge Decoupling via Orthogonal Projection for Lifelong Editing of Large Language Models**](https://aclanthology.org/2025.acl-long.646/) *Haoyu Xu, Pengxiang Lan, Enneng Yang, Guibing Guo, Jianzhe Zhao, Linying Jiang, Xingwei Wang.* ACL'25
